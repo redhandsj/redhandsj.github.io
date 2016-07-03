@@ -4,16 +4,34 @@
 ★公開用git URL
  - https://github.com/redhandsj/redhandsj.github.io.git
 
+★ ホスティングのアクセス
+http://redhandsj.github.io
+
+
 ★ git ダウンロード
  - http://vdeep.net/git-for-windows
+　-  https://git-for-windows.github.io/
+ - 初期設定
+   - git config --global user.name "redhansj"
+   - git config --global user.email fsd2ht@abox3.so-net.ne.jp
+   - git config --global core.quotepath false
+   - git config --global color.ui auto
 
 ★ git登録方法
   - http://qiita.com/kooohei/items/361da3c9dbb6e0c7946b
 
 ★ gitで HP 公開
-　－
+　－https://pages.github.com/
 
-
+★ git コマンド
+ - 追加
+  - git add -A
+　- コミット
+  - git commit -m "first commit"
+ - push
+  - git push origin master
+- リモートを調べる
+ - git remote -v
 
 
 https://drive.google.com/folderview?id=0B3_RB3opC2WTVC1VNi1OTkdYMm8&usp=sharing
