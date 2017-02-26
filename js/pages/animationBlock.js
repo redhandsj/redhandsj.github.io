@@ -2,7 +2,7 @@
  * 透明にしながら折りたたむ
  */
 $( function() {
-  alert('test_annimationBlock');
+  alert('test_annimationBlock($(function())');
 //  $( '#animate-title' ) . click( function() {
 //    $( '#animate-block' ) . animate( { height: 'toggle', opacity: 'toggle' }, 'slow' );
 //  });

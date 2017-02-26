@@ -2,7 +2,7 @@
  * ひとまず、h2,h3,h4のリストのみで構成する
  */
 $(function(){
-  alert('test_makeIndexInPage');
+  alert('test_makeIndexInPage($(function())');
 
   var idcount = 1;
   var toc = '';

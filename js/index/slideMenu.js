@@ -2,7 +2,7 @@
  * スライドメニュー
  */
 $(function(){
-  alert('test_sideMenu');
+  alert('test_sideMenu($(function())');
   var menu = $('#slide_menu'), // スライドインするメニューを指定
        /*menuBtn = $('#button'), // メニューボタンを指定*/
        body = $(document.body),
@@ -50,9 +50,3 @@ $(function(){
 $(window).on("scroll", function(){
     $("#slide_menu").css("top", -$(window).scrollTop());
 });
-if('ontouchstart' in window) {
-	$(window).bind('touchmove', function () {
-		   $("#slide_menu").css("top", -$(window).scrollTop());
-	});
-}
-
