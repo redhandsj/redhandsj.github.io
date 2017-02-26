@@ -2,6 +2,8 @@
  * ひとまず、h2,h3,h4のリストのみで構成する
  */
 $(function(){
+  alert('test_makeIndexInPage');
+
   var idcount = 1;
   var toc = '';
   var currentlevel = 0;
