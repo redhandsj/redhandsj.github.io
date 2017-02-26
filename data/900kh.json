@@ -1,0 +1,20 @@
+var kh =
+{
+  "head" :{
+    "category" : 'のうはう',
+    "folder" : '../html/900kh/',
+    "001" : {
+      title : "未整頓",
+      "001" : {
+        title : "参考URL",
+        "001" : { title : "気になったもの" , ex : true, id : "kh001_001_001_001" , ht : "2999px"  },
+        "002" : { title : "何かのうはう" , ex : false, id : "" , ht : "2999px"  },
+      },
+      "002" : {
+        title : "何かの副題",
+        "001" : { title : "何かのうはう" , ex : false, id : "" , ht : "2999px"  },
+      }
+    },
+ },
+}
+;
