@@ -48,4 +48,9 @@ $(function(){
 $(window).on("scroll", function(){
     $("#slide_menu").css("top", -$(window).scrollTop());
 });
+if('ontouchstart' in window) {
+	$(window).bind('touchmove', function () {
+		   $("#slide_menu").css("top", -$(window).scrollTop());
+	});
+}
 
