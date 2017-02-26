@@ -9,6 +9,7 @@ $(function(){
   // メニューボタンをクリックした時の動き
   //menuBtn.on('click', function(){
   $('#panel-btn').click(function(){
+	  alert('testtest');
 	// body に open クラスを付与する
     body.toggleClass('open');
     if(body.hasClass('open')){
