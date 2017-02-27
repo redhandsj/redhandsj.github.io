@@ -7,7 +7,7 @@
 //alert(document.getElementById('toc'));
 window.onload = function()
 {
-	alert('test_makeFrameLinks(window.onload)');
+	//alert('test_makeFrameLinks(window.onload)');
     // 知識
     var aps = JSON.stringify(ap, function(key, value) {
     	if (key === '') return value;

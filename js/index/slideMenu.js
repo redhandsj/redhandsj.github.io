@@ -2,7 +2,7 @@
  * スライドメニュー
  */
 $(function(){
-  alert('test_sideMenu($(function())');
+  //alert('test_sideMenu($(function())');
   var menu = $('#slide_menu'), // スライドインするメニューを指定
        /*menuBtn = $('#button'), // メニューボタンを指定*/
        body = $(document.body),
@@ -10,7 +10,7 @@ $(function(){
   // メニューボタンをクリックした時の動き
   //menuBtn.on('click', function(){
   $('#panel-btn').click(function(){
-	  alert('testtest');
+	//alert('testtest');
 	// body に open クラスを付与する
     body.toggleClass('open');
     if(body.hasClass('open')){

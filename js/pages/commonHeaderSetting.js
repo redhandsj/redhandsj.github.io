@@ -16,7 +16,7 @@ document.write('\
 <script type="text/javascript" src="../../libs/syntaxhighlighter_3.0.83/scripts/shBrushRuby.js"></script>\
 <link type="text/css" rel="stylesheet" href="../../libs/syntaxhighlighter_3.0.83/styles/shCoreMidnight.css"/>\
 <script type="text/javascript">SyntaxHighlighter.all();</script>\
-<script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>\
+<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>\
 <!-- データ -->\
 <script type="text/javascript" src="../../data/001dc.json"></script><!-- 辞書 -->\
 <script type="text/javascript" src="../../data/100ap.json"></script><!-- 応用情報処理 -->\

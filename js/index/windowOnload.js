@@ -2,7 +2,7 @@
  * JSONからページを設定
  */
 window.onload = function() {
-	alert('test_windowOnload(window.onload)');
+	//alert('test_windowOnload(window.onload)');
 	/* ちしき*/
 	var aps = JSON.stringify(ap, function(key, value) {
 		if (key === '') return value;
