@@ -62,7 +62,7 @@ function ChangeTab(tabname,z) {
 	panel_btn.hash = tabname;
 
 	// 隠しメニューの初期化
-	$( "[id^=animate-block]" ).hide();
+	//$( "[id^=animate-block]" ).hide();
 	//alert("ssssssssssss");
 
 	// クリックイベント
