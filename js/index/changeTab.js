@@ -63,7 +63,7 @@ function ChangeTab(tabname,z) {
 
 	// 隠しメニューの初期化
 	//$( "[id^=animate-block]" ).hide();
-	//alert("ssssssssssss");
+	//alert($( "[id^=animate-block]" ));
 
 	// クリックイベント
 	//var clickMe = document.getElementById("panel-btn");

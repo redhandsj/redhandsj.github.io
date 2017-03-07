@@ -2,6 +2,7 @@
  * 【一覧】http://www.hp-stylelink.com/news/2013/08/20130828.php
  * <!-- <style type="text/css"><!-- body {overflow:hidden;} //--></style> -->\
  */
+//alert("commonHeaderSetting_" + document);
 document.write('\
 <link rel="stylesheet" href="../../css/common.css">\
 <!-- syntaxhighlighter_3.0.83 -->\
