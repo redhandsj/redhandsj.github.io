@@ -15,62 +15,154 @@
 <div id="lastdaytime"></div>
 <div id="toc"></div>
 <!--===============================================================================================================-->
-<div id="animate-title01"><h2>概要</h2></div>
-<div id="animate-block01" style="display:none">
+<div id="animate-title00"><h2>概要</h2></div>
+<div id="animate-block00">
 <dl>
-<dt>■<b>タスク</b></dt><dd>コンピュータから見た仕事の単位</dd>
-<dt>■<b>タスクの遷移状態</b></dt><dd>実行可能(READY)、実行(RUN)、待機(WAIT)</dd>
-<dt>■<b>ディスパッチャ</b></dt><dd>タスクをCPUの資源に割り当てるもの</dd>
-<dt>■<b>【割当】到着順方式</b></dt><dd>READYになった順にCPUを割り当てる</dd>
-<dt>■<b>【割当】優先順方式</b></dt><dd>プリエンプション、スタベーション等</dd>
-<dt>■<b>【割当】動的優先順方式</b></dt><dd>エージング等</dd>
-<dt>■<b>【割当】ラウンドロビン方式</b></dt><dd>CPU使用権を一定時間毎に切り替え</dd>
-<dt>■<b>【割当】多重待ち行列</b></dt><dd>優先順位毎に待ち行列を設定する</dd>
+<!-- A --><dt>■<b>タスク</b></dt><dd>コンピュータから見た仕事の単位</dd>
+<!-- B --><dt>■<b>タスクの遷移状態</b></dt><dd>実行可能(READY)、実行(RUN)、待機(WAIT)</dd>
+<!-- C --><dt>■<b>ディスパッチャ</b></dt><dd>タスクをCPUの資源に割り当てるもの</dd>
+<!-- D --><dt>■<b>【割当】到着順方式</b></dt><dd>READYになった順にCPUを割り当てる</dd>
+<!-- E --><dt>■<b>【割当】優先順方式</b></dt><dd>プリエンプション、スタベーション等</dd>
+<!-- F --><dt>■<b>【割当】動的優先順方式</b></dt><dd>エージング等</dd>
+<!-- G --><dt>■<b>【割当】ラウンドロビン方式</b></dt><dd>CPU使用権を一定時間毎に切り替え</dd>
+<!-- H --><dt>■<b>【割当】多重待ち行列</b></dt><dd>優先順位毎に待ち行列を設定する</dd>
+<!-- I --><dt>■<b>【割当】処理時間方式</b></dt><dd>タスク処理の短いものから順に処理</dd>
+<!-- J --><dt>■<b>【割当】イベントドリブン方式</b></dt><dd>マウス入力等のイベント発生をトリガとしてCPU使用権を切替える</dd>
+<!-- K --><dt>■<b>マルチプログラミング</b></dt><dd>複数のプログラミングを見かけ上同時に実行して見せる</dd>
+<!-- L --><dt>■<b>割込み処理</b></dt><dd>内部割込み、外部割込み</dd>
+<!-- M --><dt>■<b>【割込】内部割込み</b></dt><dd>プログラム、SVC、ページフォルト</dd>
+<!-- N --><dt>■<b>【割込】外部割込み</b></dt><dd>入出力、機械チェック、コンソール、タイマ</dd>
+<!-- O --><dt>■<b>リアルタイムOS</b></dt><dd>イベントドリブンプリエンプション方式</dd>
 </dl></div>
 <!--===============================================================================================================-->
-<div id="animate-title02"><h2>詳細</h2></div>
-<div id="animate-block02" style="display:none">
-<!-- 画像テスト -->
+<div id="animate-title01"><h3>タスク</h3></div>
+<div id="animate-block01" style="display:none">
+　
 <p class="resizeimage">
-   <img src="../../images/100ap/ap001_001_010_003_A.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_B.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_C.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_D.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_E.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_F.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_G.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_H.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_I.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_J.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_K.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_L.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_M.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_N.jpg" >
-   <p><p>
-   <img src="../../images/100ap/ap001_001_010_003_O.jpg" >
+<img src="../../images/100ap/ap001_001_010_003_A.jpg" >
 </p>
 </div>
+<!--===============================================================================================================-->
+<div id="animate-title02"><h3>タスクの遷移状態</h3></div>
+<div id="animate-block02" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_B.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title03"><h3>ディスパッチャ</h3></div>
+<div id="animate-block03" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_C.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title04"><h3>【割当】到着順方式</h3></div>
+<div id="animate-block04" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_D.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title05"><h3>【割当】優先順方式</h3></div>
+<div id="animate-block05" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_E.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title06"><h3>【割当】動的優先順方式</h3></div>
+<div id="animate-block06" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_F.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title07"><h3>【割当】ラウンドロビン方式</h3></div>
+<div id="animate-block07" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_G.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title08"><h3>【割当】多重待ち行列</h3></div>
+<div id="animate-block08" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_H.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title09"><h3>【割当】処理時間方式</h3></div>
+<div id="animate-block09" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_I.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title10"><h3>【割当】イベントドリブン方式</h3></div>
+<div id="animate-block10" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_J.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title11"><h3>マルチプログラミング</h3></div>
+<div id="animate-block11" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_K.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title12"><h3>割込み処理</h3></div>
+<div id="animate-block12" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_L.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title13"><h3>【割込】内部割込み</h3></div>
+<div id="animate-block13" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_M.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title14"><h3>【割込】外部割込み</h3></div>
+<div id="animate-block14" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_N.jpg" >
+</p>
+</div>
+<!--===============================================================================================================-->
+<div id="animate-title15"><h3>リアルタイムOS</h3></div>
+<div id="animate-block15" style="display:none">
+　
+<p class="resizeimage">
+<img src="../../images/100ap/ap001_001_010_003_O.jpg" >
+</p>
+</div>
+
 
 <!--===============================================================================================================-->
 <!-- <div id="animate-title03"><h2>詳細</h2></div>
 <div id="animate-block03" style="display:none">
 </div> -->
 <!--===============================================================================================================-->
-<div id="animate-title04"><h2>備考</h2></div>
-<div id="animate-block04" style="display:none">
+<div id="animate-title99"><h2>備考</h2></div>
+<div id="animate-block99" style="display:none">
 
 </div>
 <!--===============================================================================================================-->
