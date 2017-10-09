@@ -2,14 +2,14 @@
  * サイトマップを作成
  */
 window.onload = function() {
-	/* ちしき*/
+	/* 応用情報処理*/
 	var aps = JSON.stringify(ap, function(key, value) {
 		if (key === '') return value;
 		var map_dtl = document.getElementById("sitemap01");
 		makeSitemap(map_dtl,key,value);
 	});
 	/* のうはう*/
-	var aps = JSON.stringify(kh, function(key, value) {
+	var khs = JSON.stringify(kh, function(key, value) {
 		if (key === '') return value;
 		var map_dtl = document.getElementById("sitemap02");
 		makeSitemap(map_dtl,key,value);
@@ -18,6 +18,12 @@ window.onload = function() {
 	var aps = JSON.stringify(dc, function(key, value) {
 		if (key === '') return value;
 		var map_dtl = document.getElementById("sitemap03");
+		makeSitemap(map_dtl,key,value);
+	});
+	/* システム・アーキテクチャ */
+	var sas = JSON.stringify(sa, function(key, value) {
+		if (key === '') return value;
+		var map_dtl = document.getElementById("sitemap04");
 		makeSitemap(map_dtl,key,value);
 	});
 }

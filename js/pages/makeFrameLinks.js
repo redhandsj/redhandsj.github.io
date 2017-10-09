@@ -8,8 +8,13 @@
 window.onload = function()
 {
 	//alert('test_makeFrameLinks(window.onload)');
-    // 知識
+    // 応用情報処理
     var aps = JSON.stringify(ap, function(key, value) {
+    	if (key === '') return value;
+    	document.body.innerHTML = makeFrameLinksSub(key,value,document.body.innerHTML);
+    });
+    //　システム・アーキテクチャ
+    var sas = JSON.stringify(sa, function(key, value) {
     	if (key === '') return value;
     	document.body.innerHTML = makeFrameLinksSub(key,value,document.body.innerHTML);
     });

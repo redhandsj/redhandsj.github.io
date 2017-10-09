@@ -21,6 +21,7 @@ document.write('\
 <!-- データ -->\
 <script type="text/javascript" src="../../data/001dc.json"></script><!-- 辞書 -->\
 <script type="text/javascript" src="../../data/100ap.json"></script><!-- 応用情報処理 -->\
+<script type="text/javascript" src="../../data/101sa.json"></script><!-- システム・アーキテクチャ -->\
 <script type="text/javascript" src="../../data/900kh.json"></script><!-- キュレーショ（情報収集） -->\
 <!-- 各処理 -->\
 <script type="text/javascript" src="../../js/pages/makeIndexInPage.js"></script>\

@@ -8,7 +8,7 @@ function ChangeTabInFrame(tabname) {
 	var replace_page = "../html/home/home.html";
 	// パン屑のデフォルトを設定
 	//window.parent.document.getElementById('breadScraps').innerHTML = 'HOME';
-	// 知識
+	// 応用情報処理
 	var aps = JSON.stringify(ap, function(key, value) {
 		if (key === '') return value;
 		replace_page = ChangeTabInFrameSub(key,value,tabname);
@@ -25,6 +25,14 @@ function ChangeTabInFrame(tabname) {
 		// 取れてなければ
 		// 辞書
 		var khs = JSON.stringify(dc, function(key, value) {
+			if (key === '') return value;
+			replace_page = ChangeTabInFrameSub(key,value,tabname);
+		});
+	}
+	if(replace_page==null){
+		// 取れてなければ
+		// 応用情報処理
+		var sas = JSON.stringify(sa, function(key, value) {
 			if (key === '') return value;
 			replace_page = ChangeTabInFrameSub(key,value,tabname);
 		});

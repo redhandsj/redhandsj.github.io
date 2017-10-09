@@ -30,7 +30,13 @@ window.onload = function() {
 		var nav_dtl = document.getElementById("new_list");
 		makeNewList(nav_dtl,key,value);
 	});
-
+	/* システム・アーキテクチャ */
+	var sas = JSON.stringify(sa, function(key, value) {
+		if (key === '') return value;
+		var nav_dtl = document.getElementById("sa_dtl");
+		var content_dtl = document.getElementById("content_sa_dtl");
+		JsonToMenu(nav_dtl,content_dtl,key,value);
+	});
 	// デフォルトはホーム
 	var page = 'home';
 	if(location.hash) {
