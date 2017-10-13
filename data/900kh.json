@@ -1,20 +1,27 @@
 var kh =
 {
   "head" :{
-    "category" : 'のうはう',
+    "category" : '雑記',
     "folder" : '../html/900kh/',
     "001" : {
-      title : "未整頓",
+      title : "技術情報",
       "001" : {
         title : "参考URL",
-        "001" : { title : "気になったもの" , ex : true, id : "kh001_001_001_001" , ht : "2999px"  },
-        "002" : { title : "何かのうはう" , ex : false, id : "" , ht : "2999px"  },
+        "001" : { title : "備忘録メモ" , ex : true, id : "kh001_001_001_001" , ht : "2999px"  },
       },
       "002" : {
-        title : "何かの副題",
-        "001" : { title : "何かのうはう" , ex : false, id : "" , ht : "2999px"  },
+        title : "通信関連",
+        "001" : { title : "NFC" , ex : true, id : "kh001_001_002_001" , ht : "2999px"  },
       }
     },
+    "002" : {
+        title : "コラム",
+        "001" : {
+          title : "〇〇〇〇",
+          "001" : { title : "〇〇〇〇" , ex : false, id : "" , ht : "2999px"  },
+        },
+      },
+
  },
 }
 ;

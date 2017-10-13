@@ -8,7 +8,7 @@ window.onload = function() {
 		var map_dtl = document.getElementById("sitemap01");
 		makeSitemap(map_dtl,key,value);
 	});
-	/* のうはう*/
+	/* 雑記*/
 	var khs = JSON.stringify(kh, function(key, value) {
 		if (key === '') return value;
 		var map_dtl = document.getElementById("sitemap02");
