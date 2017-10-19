@@ -6,13 +6,21 @@ var kh =
     "001" : {
       title : "技術情報",
       "001" : {
-        title : "参考URL",
-        "001" : { title : "備忘録メモ" , ex : true, id : "kh001_001_001_001" , ht : "2999px"  },
-      },
+          title : "参考URL",
+          "001" : { title : "備忘録メモ" , ex : true, id : "kh001_001_001_001" , ht : "2999px"  },
+        },
       "002" : {
         title : "通信関連",
         "001" : { title : "NFC" , ex : true, id : "kh001_001_002_001" , ht : "2999px"  },
-      }
+      },
+      "003" : {
+          title : "作業の未整頓メモ",
+          "001" : { title : "Hyper-V" , ex : true, id : "kh001_001_003_001" , ht : "2999px"  },
+          "002" : { title : "OS関連" , ex : true, id : "kh001_001_003_002" , ht : "2999px"  },
+          "003" : { title : "DB環境" , ex : true, id : "kh001_001_003_003" , ht : "2999px"  },
+          "004" : { title : "SpringでPostgresを使用する" , ex : false, id : "kh001_001_003_004" , ht : "2999px"  },
+          "005" : { title : "Server環境" , ex : false, id : "kh001_001_003_005" , ht : "2999px"  },
+      },
     },
     "002" : {
         title : "コラム",
