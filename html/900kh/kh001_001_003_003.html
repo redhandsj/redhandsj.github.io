@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DB関連</title>
+<!-- ------------------------------------------------------------------------------- -->
+<SCRIPT type="text/javascript" src="../../js/pages/commonHeaderSetting.js"></SCRIPT>
+<!-- ------------------------------------------------------------------------------- -->
+<script type="text/javascript" src="../../js/pages/analytics.js"></script>
+<!-- ------------------------------------------------------------------------------- -->
+</head>
+<body>
+<h1>DB関連</h1>
+<div id="lastdaytime"></div>
+
+<!--===============================================================================================================-->
+<h3>postgresql</h3>
+<ul>
+<!-- ---------------------------------------------- -->
+<li>メモ
+<pre class="brush: bash;">
+★ postgresqlをインストール
+
+ - CentOS7にPostgreSQLを導入＆初期設定をおこなう
+  http://vdeep.net/centos7-postgres
+
+ - インストールと起動
+  $ time sudo rpm -iUvh https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/pgdg-centos96-9.6-3.noarch.rpm
+  $ sudo vi /etc/yum.repos.d/pgdg-96-centos.repo
+  $ sudo yum -y install --enablerepo=pgdg96 postgresql96-server postgresql96-devel postgresql96-contrib
+  $ psql --version
+  $ sudo /usr/pgsql-9.6/bin/postgresql96-setup initdb
+  $ sudo systemctl start postgresql-9.6
+
+ - postgresql サービスを公開する
+  $ sudo firewall-cmd --permanent --add-service=postgresql
+  $ sudo firewall-cmd --reload
+
+ - ユーザ作成
+  $ createuser -P a20170905a
+
+ - DB作成
+ $ create database acounting01 owner a20170905a;
+
+ - sudo cp /var/lib/pgsql/9.6/data/postgresql.conf /var/lib/pgsql/9.6/data/postgresql.conf.org
+ - sudo vi /var/lib/pgsql/9.6/data/postgresql.conf
+$ sudo diff /var/lib/pgsql/9.6/data/postgresql.conf.org /var/lib/pgsql/9.6/data/postgresql.conf
+59c59
+ #listen_addresses = 'localhost'               # what IP address(es) to listen on;
+---
+> listen_addresses = '*'                # what IP address(es) to listen on;
+63c63
+ #port = 5432                          # (change requires restart)
+---
+> port = 5432                           # (change requires restart)
+
+
+ - sudo cp /var/lib/pgsql/9.6/data/pg_hba.conf /var/lib/pgsql/9.6/data/pg_hba.conf.org
+ - sudo vi /var/lib/pgsql/9.6/data/pg_hba.conf
+$ sudo diff /var/lib/pgsql/9.6/data/pg_hba.conf.org /var/lib/pgsql/9.6/data/pg_hba.conf
+> host    acounting01     all      0.0.0.0/0            trust
+
+
+ - 再起動
+  $ sudo systemctl restart postgresql-9.6
+
+
+##------------------------------
+## 停止する場合↓
+  $ sudo systemctl stop postgresql-9.6
+## 再起動する場合↓
+  $ sudo systemctl reload postgresql-9.6
+  $ sudo systemctl restart postgresql-9.6
+
+## OS起動時に自動でPostgreSQLが起動
+  $ sudo systemctl enable postgresql-9.6
+## OS起動時に自動でPostgreSQLが起動を停止
+  $ sudo systemctl disable postgresql-9.6
+
+## 設定ファイルy
+  /var/lib/pgsql/9.6/data/postgresql.conf
+
+##-----------------------------------------------------------
+## OS上のpostgresのパスワードを変更
+
+$ sudo passwd postgres
+Changing password for user postgres.
+New password: [パスワード入力]
+Retype new password: [パスワード入力]
+passwd: all authentication tokens updated successfully.
+
+## postqresユーザに切り替え
+$ su - postgres
+
+## ユーザ作成
+createuser -P a20170905a
+
+
+## DB作成
+psql
+create database acounting01 owner a20170905a;
+
+## 認証設定ファイル
+ sudo vi /var/lib/pgsql/9.6/data/pg_hba.conf
+
+
+## postgresql サービスを公開する
+ $ sudo firewall-cmd --permanent --add-service=postgresql
+ $ sudo firewall-cmd --reload
+
+## postgresql サービスを停止する
+ $ sudo firewall-cmd --permanent --remove-service=postgresql
+ $ sudo firewall-cmd --reload
+
+</pre>
+</ul>
+
+<!--===============================================================================================================-->
+<h3>MySQL</h3>
+<ul>
+<!-- ---------------------------------------------- -->
+<li>メモ
+<pre class="brush: bash;">
+ - （×）http://typea.info/blg/glob/2017/01/mysql57-centos-7.html
+ - http://enomotodev.hatenablog.com/entry/2016/09/01/225200
+
+
+$ sudo yum remove mariadb-libs
+$ sudo rm -rf /var/lib/mysql
+$ sudo rpm -ivh http://dev.mysql.com/get/mysql57-community-release-el7-8.noarch.rpm
+$ sudo yum install mysql-community-server
+$ mysqld --version
+# 起動
+$ sudo systemctl start mysqld.service
+# 自動起動設定
+$ sudo systemctl enable mysqld.service
+# 初期パスワード確認
+$ sudo cat /var/log/mysqld.log | grep password
+## mysql サービスを公開する
+ $ sudo firewall-cmd --permanent --add-service=mysql
+ $ sudo firewall-cmd --reload
+## mysql サービスを停止する
+ $ sudo firewall-cmd --permanent --remove-service=mysql
+ $ sudo firewall-cmd --reload
+
+
+## パスワードポリシーの変更
+
+A temporary password is generated for root@localhost: ZeAOq_Cw?5W6
+ $ http://qiita.com/RyochanUedasan/items/9a49309019475536d22a
+ → 「a20170905a@A」に変更
+
+
+
+
+## DB作成
+
+http://blog.jicoman.info/2013/08/mysql_user/
+
+ - ユーザ作成
+CREATE USER user;
+CREATE USER user IDENTIFIED BY [PASSWORD] 'password';
+
+ - DB作成
+  > CREATE DATABASE acounting01;
+ - 文字コード設定
+  > create database WP_DB character set utf8;
+ - DB確認
+  > show create database WP_DB;
+
+
+
+ - DBに権限付与
+grant select, insert, update, delete on WP_DB.* to WP_USER@localhost iden
+
+ - 設定反映
+flush privileges;
+
+ - 権限確認
+show grants for WP_USER@localhost;
+
+
+
+</pre>
+</ul>
+
+
+
+
+</body>
+</html>
