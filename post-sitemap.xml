@@ -7,8 +7,40 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/2018/01/01/20180102/</loc>
-        <lastmod>2018-04-15T05:12:44.408Z</lastmod>
+        <loc>http://localhost:4000/2018/01/06/20180106/</loc>
+        <lastmod>2018-04-16T05:40:39.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/05/20180105/</loc>
+        <lastmod>2018-04-16T05:21:17.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/04/20180104/</loc>
+        <lastmod>2018-04-16T05:04:09.345Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/02/20180102/</loc>
+        <lastmod>2018-04-15T11:40:03.013Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/03/20180103/</loc>
+        <lastmod>2018-04-15T11:18:32.917Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,14 +49,6 @@
     <url>
         <loc>http://localhost:4000/2018/01/01/20180101/</loc>
         <lastmod>2018-04-15T05:12:33.548Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/02/21/hello-world/</loc>
-        <lastmod>2018-04-06T04:28:47.211Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
