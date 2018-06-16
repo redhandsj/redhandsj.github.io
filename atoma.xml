@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>どこかの街の電気屋</title>
-  <subtitle>電気関連の資格試験勉強ノート</subtitle>
+  <subtitle>電気関連の資格試験勉強ノート（Form 2018/1/1 ）</subtitle>
   
   <link href="http://localhost:4000/atoma.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
   <updated>
     
-      2018-04-16T05:40:39.527Z
+      2018-06-16T21:56:09.340Z
     
   </updated>
   <id>http://localhost:4000/</id>
@@ -20,13 +20,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>コンセントまわり</title>
-    <link href="http://localhost:4000/2018/01/06/20180106/"/>
-    <id>http://localhost:4000/2018/01/06/20180106/</id>
-    <published>2018-01-06T05:44:24.000Z</published>
+    <title>電荷</title>
+    <link href="http://localhost:4000/2018/02/05/20180205/"/>
+    <id>http://localhost:4000/2018/02/05/20180205/</id>
+    <published>2018-02-05T02:51:26.000Z</published>
     <updated>
       
-        2018-04-16T05:40:39.527Z
+        2018-06-16T21:56:09.340Z
       
     </updated>
     
@@ -37,25 +37,51 @@
  *
  */
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-he-noxing-zhi&quot;&gt;電荷の性質&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ji-hao-noshi-sifang&quot;&gt;記号の示し方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。工事中のページです。&lt;/p&gt;
     
     </summary>
     
-      <category term="配線図記号" scheme="http://localhost:4000/categories/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/"/>
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+    
+      <category term="直流回路" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E7%9B%B4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
     
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/tags/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
-    <title>照明器具の図記号</title>
-    <link href="http://localhost:4000/2018/01/05/20180105/"/>
-    <id>http://localhost:4000/2018/01/05/20180105/</id>
-    <published>2018-01-05T05:44:24.000Z</published>
+    <title>複素数</title>
+    <link href="http://localhost:4000/2018/02/04/20180204/"/>
+    <id>http://localhost:4000/2018/02/04/20180204/</id>
+    <published>2018-02-04T02:51:26.000Z</published>
     <updated>
       
-        2018-04-16T05:21:17.271Z
+        2018-06-16T15:42:12.784Z
       
     </updated>
     
@@ -66,25 +92,68 @@
  *
  */
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-toha&quot;&gt;複素数とは&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-toha-1&quot;&gt;複素数とは&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-ping-mian&quot;&gt;複素平面&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-ping-mian-1&quot;&gt;複素平面&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-nojue-dui-zhi-togong-yi-fu-su-shu&quot;&gt;複素数の絶対値と共役複素数&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-noda-kisa&quot;&gt;複素数の大きさ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#gong-yi-fu-su-shu&quot;&gt;共役複素数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jue-dui-zhi-togong-yi-fu-su-shu-noguan-xi&quot;&gt;絶対値と共役複素数の関係&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jue-dui-zhi-noguan-xi-shi&quot;&gt;絶対値の関係式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-noji-suan&quot;&gt;複素数の計算&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-noji-suan-1&quot;&gt;複素数の計算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-noiroironabiao-sifang&quot;&gt;複素数のいろいろな表し方&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-su-shu-nobiao-shi-xing-shi&quot;&gt;複素数の表示形式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回も前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は複素数について見ていきます。では、どうぞ。&lt;/p&gt;
     
     </summary>
     
-      <category term="配線図記号" scheme="http://localhost:4000/categories/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/"/>
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/tags/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
-    <title>配線まわりの記号いろいろ</title>
-    <link href="http://localhost:4000/2018/01/04/20180104/"/>
-    <id>http://localhost:4000/2018/01/04/20180104/</id>
-    <published>2018-01-04T05:44:24.000Z</published>
+    <title>ベクトル</title>
+    <link href="http://localhost:4000/2018/02/03/20180203/"/>
+    <id>http://localhost:4000/2018/02/03/20180203/</id>
+    <published>2018-02-03T02:51:26.000Z</published>
     <updated>
       
-        2018-04-16T05:04:09.345Z
+        2018-06-16T12:41:10.091Z
       
     </updated>
     
@@ -95,25 +164,61 @@
  *
  */
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunobiao-sifang&quot;&gt;ベクトルの表し方&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorutoha&quot;&gt;ベクトルとは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunoxing-zhi&quot;&gt;ベクトルの性質&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunoji-suan&quot;&gt;ベクトルの計算&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunshi-shu-bei&quot;&gt;ベクトルｎ実数倍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunozu-suan&quot;&gt;ベクトルの足算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunoyin-suan&quot;&gt;ベクトルの引算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bekutorunozuo-biao-biao-shi&quot;&gt;ベクトルの座標表示&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-jiao-zuo-biao-biao-shi&quot;&gt;直交座標表示&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ji-zuo-biao-biao-shi&quot;&gt;極座標表示&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回も前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回はベクトルについて見ていきます。では、どうぞ。&lt;/p&gt;
     
     </summary>
     
-      <category term="配線図記号" scheme="http://localhost:4000/categories/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/"/>
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/tags/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
-    <title>配線図の線の記号</title>
-    <link href="http://localhost:4000/2018/01/03/20180103/"/>
-    <id>http://localhost:4000/2018/01/03/20180103/</id>
-    <published>2018-01-03T05:44:24.000Z</published>
+    <title>三角比と三角関数</title>
+    <link href="http://localhost:4000/2018/02/02/20180202/"/>
+    <id>http://localhost:4000/2018/02/02/20180202/</id>
+    <published>2018-02-02T02:51:26.000Z</published>
     <updated>
       
-        2018-04-15T11:18:32.917Z
+        2018-06-16T11:55:18.008Z
       
     </updated>
     
@@ -124,25 +229,78 @@
  *
  */
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hu-du-fa&quot;&gt;弧度法&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#yuan-zhou-lu&quot;&gt;円周率&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jiao-du&quot;&gt;角度&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#li-ti-jiao&quot;&gt;立体角&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-bi&quot;&gt;三角比&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-bi-toha&quot;&gt;三角比とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#pitagorasunoding-li-san-ping-fang-noding-li-toha&quot;&gt;ピタゴラスの定理（三平方の定理）とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-bi-noguan-xi&quot;&gt;三角比の関係&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-guan-shu&quot;&gt;三角関数&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#yi-ban-jiao-noruru&quot;&gt;一般角のルール&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yi-ban-jiao-nosan-jiao-guan-shu&quot;&gt;一般角の三角関数&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-guan-shu-nogurahu&quot;&gt;三角関数のグラフ&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#sinthtocosthnogurahu&quot;&gt;sinθとcosθのグラフ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-guan-shu-tojiao-liu-bo-xing&quot;&gt;三角関数と交流波形&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#wei-xiang-nojin-mi-chi-re&quot;&gt;位相の進み、遅れ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yu-xian-ding-li&quot;&gt;余弦定理&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#yu-xian-ding-li-1&quot;&gt;余弦定理&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jia-fa-ding-li&quot;&gt;加法定理&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#jia-fa-ding-li-1&quot;&gt;加法定理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bei-jiao-nogong-shi-ban-jiao-nogong-shi&quot;&gt;倍角の公式・半角の公式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-jiao-guan-shu-nohe-cheng&quot;&gt;三角関数の合成&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回も前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は三角比・三角関数について見ていきます。では、どうぞ。&lt;/p&gt;
     
     </summary>
     
-      <category term="配線図記号" scheme="http://localhost:4000/categories/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/"/>
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/tags/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
-    <title>電気工事の配線図</title>
-    <link href="http://localhost:4000/2018/01/02/20180102/"/>
-    <id>http://localhost:4000/2018/01/02/20180102/</id>
-    <published>2018-01-02T02:51:26.000Z</published>
+    <title>最小定理</title>
+    <link href="http://localhost:4000/2018/02/01/20180201/"/>
+    <id>http://localhost:4000/2018/02/01/20180201/</id>
+    <published>2018-02-01T02:51:26.000Z</published>
     <updated>
       
-        2018-04-15T11:40:03.013Z
+        2018-06-16T05:01:45.732Z
       
     </updated>
     
@@ -153,25 +311,54 @@
  *
  */
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zui-xiao-ding-li&quot;&gt;最小定理&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#zui-xiao-ding-li-toha&quot;&gt;最小定理とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zui-xiao-ding-li-woshi-tutawen-ti-nojie-kifang&quot;&gt;最小定理を使った問題の解き方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zui-xiao-ding-li-noying-yong&quot;&gt;最小定理の応用&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#zui-da-zhi-noji-suan&quot;&gt;最大値の計算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回も前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は最小定理について見ていきます。では、どうぞ。&lt;/p&gt;
     
     </summary>
     
-      <category term="配線図記号" scheme="http://localhost:4000/categories/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/"/>
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/tags/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
-    <title>計画をたてよう</title>
-    <link href="http://localhost:4000/2018/01/01/20180101/"/>
-    <id>http://localhost:4000/2018/01/01/20180101/</id>
-    <published>2018-01-01T02:51:26.000Z</published>
+    <title>二次方程式</title>
+    <link href="http://localhost:4000/2018/01/31/20180131/"/>
+    <id>http://localhost:4000/2018/01/31/20180131/</id>
+    <published>2018-01-31T02:51:26.000Z</published>
     <updated>
       
-        2018-04-15T05:12:33.548Z
+        2018-06-16T03:35:09.643Z
       
     </updated>
     
@@ -182,14 +369,940 @@
  *
  */
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#shi-nozhan-kai&quot;&gt;式の展開&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-pei-fa-ze&quot;&gt;分配法則&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#shi-nozhan-kai-1&quot;&gt;式の展開&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yin-shu-fen-jie&quot;&gt;因数分解&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#yin-shu-fen-jie-toha&quot;&gt;因数分解とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yin-shu-fen-jie-nogong-shi&quot;&gt;因数分解の公式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yin-shu-fen-jie-nojie-kifang&quot;&gt;因数分解の解き方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#er-ci-fang-cheng-shi&quot;&gt;二次方程式&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#er-ci-fang-cheng-shi-toha&quot;&gt;二次方程式とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#er-ci-fang-cheng-shi-nojie-nogong-shi&quot;&gt;二次方程式の解の公式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jie-nogong-shi-woshi-wanaijie-kifang&quot;&gt;解の公式を使わない解き方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回も前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は二次方程式について見ていきます。では、どうぞ。&lt;/p&gt;
     
     </summary>
     
-      <category term="目次" scheme="http://localhost:4000/categories/%E7%9B%AE%E6%AC%A1/"/>
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/tags/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>平方根と指数</title>
+    <link href="http://localhost:4000/2018/01/30/20180130/"/>
+    <id>http://localhost:4000/2018/01/30/20180130/</id>
+    <published>2018-01-30T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-16T02:45:31.040Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yi-ci-fang-cheng-shi&quot;&gt;一次方程式&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#yi-ci-fang-cheng-shi-toha&quot;&gt;一次方程式とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yi-ci-fang-cheng-shi-nojie-kifang&quot;&gt;一次方程式の解き方&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lian-li-fang-cheng-shi&quot;&gt;連立方程式&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#lian-li-fang-cheng-shi-toha&quot;&gt;連立方程式とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lian-li-fang-cheng-shi-nojie-kifang-dai-ru-fa&quot;&gt;連立方程式の解き方（代入法）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lian-li-fang-cheng-shi-nojie-kifang-jia-jian-fa&quot;&gt;連立方程式の解き方（加減法）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回も前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は一次方程式・連立方程式について見ていきます。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>平方根と指数</title>
+    <link href="http://localhost:4000/2018/01/29/20180129/"/>
+    <id>http://localhost:4000/2018/01/29/20180129/</id>
+    <published>2018-01-29T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-16T02:16:42.725Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dui-shu-noshi-ifang&quot;&gt;対数の使い方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dui-shu-noji-suan&quot;&gt;対数の計算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#chang-yong-dui-shu&quot;&gt;常用対数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回は前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は、対数について見ていきます。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>平方根と指数</title>
+    <link href="http://localhost:4000/2018/01/28/20180128/"/>
+    <id>http://localhost:4000/2018/01/28/20180128/</id>
+    <published>2018-01-28T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-16T01:42:41.379Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ping-fang-gen&quot;&gt;平方根&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#ping-fang-gen-toha&quot;&gt;平方根とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ping-fang-gen-nogua-suan-ge-suan&quot;&gt;平方根の掛算・割算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ping-fang-gen-nozu-suan-yin-suan&quot;&gt;平方根の足算・引算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#you-li-hua&quot;&gt;有理化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-shu-noshi-ifang&quot;&gt;指数の使い方&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-shu-toha&quot;&gt;指数とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fu-nozhi-shu&quot;&gt;負の指数&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lei-cheng-noji-suan&quot;&gt;累乗の計算&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#lei-cheng-nogua-suan&quot;&gt;累乗の掛算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lei-cheng-noge-suan&quot;&gt;累乗の割算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#lei-cheng-nolei-cheng&quot;&gt;累乗の累乗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-shu-nofen-pei-fa-ze&quot;&gt;指数の分配法則&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zerocheng-noji-suan&quot;&gt;ゼロ乗の計算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhu-yi-subekiji-suan&quot;&gt;注意すべき計算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-xiao-shu-nozhi-shu&quot;&gt;分数・小数の指数&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-xiao-shu-nozhi-shu-1&quot;&gt;分数・小数の指数&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dan-wei&quot;&gt;単位&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#dan-wei-nohuan-suan&quot;&gt;単位の換算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回は前回に引き続き、電気理論関連で使用する数学知識の復習をしていきます。今回は、平方根と指数について見ていきます。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分数の計算</title>
+    <link href="http://localhost:4000/2018/01/27/20180127/"/>
+    <id>http://localhost:4000/2018/01/27/20180127/</id>
+    <published>2018-01-27T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-14T23:04:09.405Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-nosi-ze-ji-suan&quot;&gt;分数の四則計算&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-nozu-suan&quot;&gt;分数の足算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-noyin-suan&quot;&gt;分数の引算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-nogua-suan&quot;&gt;分数の掛算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fen-shu-noge-suan&quot;&gt;分数の割算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fan-fen-shu-noji-suan&quot;&gt;繁分数の計算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bi-noji-suan&quot;&gt;比の計算&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#bi-nozhi&quot;&gt;比の値&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bi-noji-suan-1&quot;&gt;比の計算&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回からしばらく、電気理論関連で使用する数学知識の復習をしていきます。中学高校で学んだ中で主に使用する知識をやってきます。まず、今日は簡単に分数を見ていきましょう。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数学" scheme="http://localhost:4000/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+      <category term="数学" scheme="http://localhost:4000/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>法規の基礎</title>
+    <link href="http://localhost:4000/2018/01/26/20180126/"/>
+    <id>http://localhost:4000/2018/01/26/20180126/</id>
+    <published>2018-01-26T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-06T23:10:32.098Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fa-gui-noquan-ti-tu&quot;&gt;法規の全体図&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-guan-xi-nofa-gui&quot;&gt;電気関係の法規&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#somosomofa-lu-toha&quot;&gt;そもそも法律とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-guan-xi-nofa-lu&quot;&gt;電気関係の法律&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-shi-ye-fa&quot;&gt;電気事業法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-she-bei-ji-shu-ji-zhun&quot;&gt;電気設備技術基準&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#ji-shu-ji-zhun-toha&quot;&gt;技術基準とは？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jue-yuan-di-kang-tojue-yuan-nai-li-shi-yan&quot;&gt;絶縁抵抗と絶縁耐力試験&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jie-di-gong-shi&quot;&gt;接地工事&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-shi-she-guan-li&quot;&gt;電気施設管理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回は、法規科目の概要説明をしたいと思います。学習順としては、他の科目の要素を最も含む為、最後にこれを学習しましょう。とりあえず、今日のところは全体像を掴んで、前提知識を確認しておきましょう。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="法規" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E6%B3%95%E8%A6%8F/"/>
+    
+      <category term="法規の基礎" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E6%B3%95%E8%A6%8F/%E6%B3%95%E8%A6%8F%E3%81%AE%E5%9F%BA%E7%A4%8E/"/>
+    
+    
+      <category term="電験法規" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E6%B3%95%E8%A6%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>電力の基礎</title>
+    <link href="http://localhost:4000/2018/01/25/20180125/"/>
+    <id>http://localhost:4000/2018/01/25/20180125/</id>
+    <published>2018-01-25T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-05T23:21:08.307Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-li-noquan-ti-tu&quot;&gt;電力の全体図&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fa-dian&quot;&gt;発電&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#shui-li-fa-dian&quot;&gt;水力発電&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#re-li-xue&quot;&gt;熱力学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#huo-li-fa-dian&quot;&gt;火力発電&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#yuan-zi-li-fa-dian&quot;&gt;原子力発電&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bian-dian&quot;&gt;変電&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#song-dian&quot;&gt;送電&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#pei-dian&quot;&gt;配電&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。前回予告した通り、本日は、電力の基礎を見ていきます。今回も量が多いのでさっそく見ていきましょう。ではどうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="電力" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E9%9B%BB%E5%8A%9B/"/>
+    
+      <category term="電力の基礎" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E9%9B%BB%E5%8A%9B/%E9%9B%BB%E5%8A%9B%E3%81%AE%E5%9F%BA%E7%A4%8E/"/>
+    
+    
+      <category term="電験電力" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E9%9B%BB%E5%8A%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>機械の基礎</title>
+    <link href="http://localhost:4000/2018/01/24/20180124/"/>
+    <id>http://localhost:4000/2018/01/24/20180124/</id>
+    <published>2018-01-24T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-05T23:21:24.479Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ji-jie-noquan-ti-tu&quot;&gt;機械の全体図&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-liu-ji&quot;&gt;直流機&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-liu-fa-dian-ji&quot;&gt;直流発電機&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-liu-dian-dong-ji&quot;&gt;直流電動機&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jie-ci-ci-shu&quot;&gt;界磁磁束&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bian-ya-qi&quot;&gt;変圧器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#you-dao-ji&quot;&gt;誘導機&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#you-dao-fa-dong-ji&quot;&gt;誘導発動機&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hui-zhuan-ci-jie-togu-ding-zi&quot;&gt;回転磁界と固定子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hui-zhuan-zi&quot;&gt;回転子&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#tong-qi-ji&quot;&gt;同期機&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回は、機械の基礎を書きます。計画での効率のよい学習順では、理論の次に機械を学習することになっています。前提となる理論の内容も確認しつつ、前提になる基礎を学習します。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="機械" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E6%A9%9F%E6%A2%B0/"/>
+    
+      <category term="機械の基礎" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E6%A9%9F%E6%A2%B0/%E6%A9%9F%E6%A2%B0%E3%81%AE%E5%9F%BA%E7%A4%8E/"/>
+    
+    
+      <category term="電験機械" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E6%A9%9F%E6%A2%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>理論の基礎</title>
+    <link href="http://localhost:4000/2018/01/23/20180123/"/>
+    <id>http://localhost:4000/2018/01/23/20180123/</id>
+    <published>2018-01-23T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-04T20:49:52.163Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#li-lun-noquan-ti-tu&quot;&gt;理論の全体図&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-liu-hui-lu&quot;&gt;直流回路&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#di-kang-nohe-cheng&quot;&gt;抵抗の合成&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-liu-hui-lu-nofa-ze&quot;&gt;直流回路の法則&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jing-dian-qi&quot;&gt;静電気&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#jing-dian-qi-toha&quot;&gt;静電気とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kuronnofa-ze&quot;&gt;クーロンの法則&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-jie-todian-shu&quot;&gt;電界と電束&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kondensa&quot;&gt;コンデンサ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-ci-li&quot;&gt;電磁力&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#ci-jie-toha&quot;&gt;磁界とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-ci-li-toha&quot;&gt;電磁力とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#toruku&quot;&gt;トルク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-ci-you-dao&quot;&gt;電磁誘導&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jiao-liu-hui-lu&quot;&gt;交流回路&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#zheng-xian-bo-jiao-liu&quot;&gt;正弦波交流&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#saikuru&quot;&gt;サイクル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#wei-xiang&quot;&gt;位相&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#sonota-dan-yu&quot;&gt;その他単語&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回は、電験の４科目の１つ理論の基礎知識を扱います。様々な項目の共通した知識を洗い出したいと思います。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+    
+      <category term="理論の基礎" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E7%90%86%E8%AB%96%E3%81%AE%E5%9F%BA%E7%A4%8E/"/>
+    
+    
+      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>電気とはなんぞや</title>
+    <link href="http://localhost:4000/2018/01/22/20180122/"/>
+    <id>http://localhost:4000/2018/01/22/20180122/</id>
+    <published>2018-01-22T02:51:26.000Z</published>
+    <updated>
+      
+        2018-06-04T20:24:32.181Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-toha&quot;&gt;電気とは&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-he-todian-liu-todian-ya&quot;&gt;電荷と電流と電圧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#di-kang-toomunofa-ze&quot;&gt;抵抗とオームの法則&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-li-todian-li-liang&quot;&gt;電力と電力量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-noji-hao-nobiao-sifang&quot;&gt;電気の記号の表し方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jie-tou-ci&quot;&gt;接頭辞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-hui-lu&quot;&gt;電気回路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhi-liu-tojiao-liu&quot;&gt;直流と交流&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-yan-san-zhong-nodan-wei-ji-hao&quot;&gt;電験三種の単位記号&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。さて、今回からしばらく電験三種の学習を進めていきます。まずは前提知識として『電気』そのものについて描いていきたいと思います。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+    
+      <category term="電気の基礎" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E6%B0%97%E3%81%AE%E5%9F%BA%E7%A4%8E/"/>
+    
+    
+      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第三種電気主任技術者試験の学習計画</title>
+    <link href="http://localhost:4000/2018/01/21/20180121/"/>
+    <id>http://localhost:4000/2018/01/21/20180121/</id>
+    <published>2018-01-21T02:51:26.000Z</published>
+    <updated>
+      
+        2018-05-28T03:02:32.799Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#konozi-ge-dedekirukoto&quot;&gt;この資格でできること&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#shi-yan-nei-rong&quot;&gt;試験内容&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#shi-yan-noxue-xi-zuo-zhan&quot;&gt;試験の学習作戦&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#li-lun&quot;&gt;理論&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#ji-jie&quot;&gt;機械&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-li&quot;&gt;電力&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#fa-gui&quot;&gt;法規&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。前回までは第二種電気工事士の学習を進めてきました。今回は、そちらは少し休憩して、しばらく第三種電気主任技術者試験、すなわち、『電験』について学習していきたいと思います。で、電気工事士と同様、まずは、試験概要と学習計画について、書いてみたいと思います。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+    
+      <category term="試験計画" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E8%A9%A6%E9%A8%93%E8%A8%88%E7%94%BB/"/>
+    
+    
+      <category term="試験計画" scheme="http://localhost:4000/tags/%E8%A9%A6%E9%A8%93%E8%A8%88%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>コード</title>
+    <link href="http://localhost:4000/2018/01/20/20180120/"/>
+    <id>http://localhost:4000/2018/01/20/20180120/</id>
+    <published>2018-01-20T02:49:38.000Z</published>
+    <updated>
+      
+        2018-06-12T19:01:13.064Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kodonozhong-lei-toshi-ifen-ke&quot;&gt;コードの種類と使い分け&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回のテーマは『コード』です。&lt;br&gt;　電気を伝える大事な部品です。見てみましょう。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/tags/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蛍光灯と照明</title>
+    <link href="http://localhost:4000/2018/01/19/20180119/"/>
+    <id>http://localhost:4000/2018/01/19/20180119/</id>
+    <published>2018-01-19T02:49:38.000Z</published>
+    <updated>
+      
+        2018-06-12T18:47:58.554Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#guang-yuan-nowei-iniyoruzhao-ming-qi-ju-note-zheng&quot;&gt;光源の違いによる照明器具の特徴&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#ying-guang-guan-tobai-re-dian-qiu-nowei-i&quot;&gt;蛍光管と白熱電球の違い&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hid-deng-gao-hui-du-fang-dian-deng-note-zheng-toyong-tu&quot;&gt;HID灯（高輝度放電灯）の特徴と用途&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qiu-zhao-ming-nokou-jin-saizu&quot;&gt;電球照明の口金サイズ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-deng-guan-fang-shi-noying-guang-deng-hui-lu-toqi-ju-nodong-ki&quot;&gt;点灯管方式の蛍光灯回路と器具の働き&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#inbatashi-gao-zhou-bo-dian-deng-xing-dian-deng-hui-lu&quot;&gt;インバータ式（高周波点灯形）点灯回路&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#guang-yuan-noming-rusa&quot;&gt;光源の明るさ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回のテーマは『照明』です。&lt;br&gt;　宇宙から見た地球には夜光る照明が、地形が分かるほど明るく光っています。それらの照明にはどのようなものがあるのでしょうか。見てみましょう。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/tags/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>誘導電動機</title>
+    <link href="http://localhost:4000/2018/01/18/20180118/"/>
+    <id>http://localhost:4000/2018/01/18/20180118/</id>
+    <published>2018-01-18T02:49:38.000Z</published>
+    <updated>
+      
+        2018-06-11T11:36:27.240Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#you-dao-dian-dong-ji-nosikumitohui-zhuan-su-du&quot;&gt;誘導電動機のしくみと回転速度&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#you-dao-dian-dong-ji-nohui-zhuan-su-du&quot;&gt;誘導電動機の回転速度&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#san-xiang-you-dao-dian-dong-ji-noshi-dong-fa&quot;&gt;三相誘導電動機の始動法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hui-zhuan-woni-zhuan-saserufang-fa&quot;&gt;回転を逆転させる方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#li-lu-nogai-shan-dui-ce&quot;&gt;力率の改善対策&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回のテーマは『誘導電動機』です。誘導電動機とは、交流電源で回転するモータで、単相誘導電動機は洗濯機や換気扇で使用され、三相誘導電動機は、エレベータや工場の動力として利用します。では、詳しく見ていきましょう。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/tags/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>測定器</title>
+    <link href="http://localhost:4000/2018/01/17/20180117/"/>
+    <id>http://localhost:4000/2018/01/17/20180117/</id>
+    <published>2018-01-17T02:49:38.000Z</published>
+    <updated>
+      
+        2018-06-11T01:36:35.160Z
+      
+    </updated>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+/**
+ *
+ */
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-105333603-1&#39;, &#39;auto&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+
+
+&lt;div class=&quot;tocStart&quot;&gt;&lt;/div&gt;
+
+&lt;!-- toc --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#maegaki&quot;&gt;まえがき&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#dian-qi-gong-shi-nibi-yao-nace-ding-qi&quot;&gt;電気工事に必要な測定器&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#jue-yuan-di-kang-ji-mega&quot;&gt;絶縁抵抗計（メガー）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jie-di-di-kang-ji-asutesuta&quot;&gt;接地抵抗計（アーステスタ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hui-lu-ji-tesuta&quot;&gt;回路計（テスタ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#kuranpuxing-dian-liu-ji&quot;&gt;クランプ形電流計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jian-xiang-qi&quot;&gt;検相器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhao-du-ji&quot;&gt;照度計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hui-zhuan-ji&quot;&gt;回転計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jian-dian-qi-di-ya-yong&quot;&gt;検電器（低圧用）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#zhou-bo-shu-ji&quot;&gt;周波数計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#jiao-liu-dian-ya-diao-zheng-qi-suraidatuku&quot;&gt;交流電圧調整器（スライダック）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#atogaki&quot;&gt;あとがき&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- tocstop --&gt;
+&lt;div class=&quot;tocEnd&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;まえがき&quot;&gt;&lt;a href=&quot;#まえがき&quot; class=&quot;headerlink&quot; title=&quot;まえがき&quot;&gt;&lt;/a&gt;まえがき&lt;/h2&gt;&lt;p&gt;　こんにちわ。今回は「測定器」を扱います。一般用電気工作物の工事では『絶縁抵抗計』『接地抵抗計』『回路計（テスタ）』などを備え付ける必要があります。それらを見てみましょう。では、どうぞ。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
+    
+    
+      <category term="器具・工具・材料" scheme="http://localhost:4000/tags/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/"/>
     
   </entry>
   
