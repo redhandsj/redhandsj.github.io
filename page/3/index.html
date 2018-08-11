@@ -65,13 +65,13 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main"><article id="post-20180116" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-20180216" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/16/20180116/" class="article-date">
-  <time datetime="2018-01-16T02:49:38.000Z" itemprop="datePublished">2018-01-16</time>
+    <a href="/2018/02/16/20180216/" class="article-date">
+  <time datetime="2018-02-16T02:51:26.000Z" itemprop="datePublished">2018-02-16</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/電磁力/">電磁力</a>
   </div>
   </div>
   <div class="article-inner">
@@ -79,7 +79,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/16/20180116/">様々な工事</a>
+      <a class="article-title" href="/2018/02/16/20180216/">電磁力</a>
     </h1>
       </header>
     
@@ -105,30 +105,16 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#2zhong-jin-shu-zhi-ke-toudian-xian-guan-gong-shi">２種金属製可とう電線管工事</a><ul>
-<li><a href="#2zhong-jin-shu-zhi-ke-toudian-xian-guan-gong-shi-nishi-ucai-liao-togong-ju">２種金属製可とう電線管工事に使う材料と工具</a></li>
+<li><a href="#dian-ci-li-toha">電磁力とは</a></li>
+<li><a href="#dian-liu-gaci-jie-karashou-keruli-tohuremingunozuo-shou-nofa-ze">電流が磁界から受ける力とフレミングの左手の法則</a><ul>
+<li><a href="#huremingunozuo-shou-nofa-ze-dian-ci-li-noxiang-ki">フレミングの左手の法則（電磁力の向き）</a></li>
+<li><a href="#zhi-xian-dao-ti-nidong-kuli-noda-kisa-dian-ci-li-noda-kisa">直線導体に働く力の大きさ（電磁力の大きさ）</a></li>
+<li><a href="#ping-xing-dao-ti-jian-nidong-kuli">平行導体間に働く力</a></li>
 </ul>
 </li>
-<li><a href="#he-cheng-shu-zhi-guan-gong-shi">合成樹脂管工事</a><ul>
-<li><a href="#he-cheng-shu-zhi-guan-gong-shi-noshi-gong">合成樹脂管工事の施工</a></li>
-<li><a href="#he-cheng-shu-zhi-guan-tobotukusunojie-sok-nishi-ucai-liao">合成樹脂管とボックスの接続に使う材料</a></li>
-</ul>
-</li>
-<li><a href="#metarurasubi-guan-tong-gong-shi">メタルラス壁貫通工事</a><ul>
-<li><a href="#metarurasubi-guan-tong-gong-shi-nocai-liao-togong-ju">メタルラス壁貫通工事の材料と工具</a></li>
-</ul>
-</li>
-<li><a href="#neonfang-dian-deng-gong-shi">ネオン放電灯工事</a><ul>
-<li><a href="#neonfang-dian-deng-gong-shi-nocai-liao-togong-ju">ネオン放電灯工事の材料と工具</a></li>
-</ul>
-</li>
-<li><a href="#huroadakutogong-shi">フロアダクト工事</a><ul>
-<li><a href="#huroadakutogong-shi-nocai-liao">フロアダクト工事の材料</a></li>
-</ul>
-</li>
-<li><a href="#sonota-noqi-ju-togong-ju">その他の器具と工具</a><ul>
-<li><a href="#shi-yan-deming-cheng-yayong-tu-wowen-warerusonota-noqi-ju">試験で名称や用途を問われるその他の器具</a></li>
-<li><a href="#gong-shi-nibi-yao-nagong-ju">工事に必要な工具</a></li>
+<li><a href="#koirunidong-kutoruku">コイルに働くトルク</a><ul>
+<li><a href="#torukutute">トルクって？</a></li>
+<li><a href="#koirunidong-kutoruku-1">コイルに働くトルク</a></li>
 </ul>
 </li>
 <li><a href="#atogaki">あとがき</a></li>
@@ -136,30 +122,30 @@
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は金属管工事以外の様々な工事に関しての材料・工具を見ていきます。<br>　では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電磁力について見ていきたいと思います。電磁力とは、前回の磁界とは少し違い、電力が磁界から受ける力です。前回は、電流を流すと磁界が発生する事を学習しましたが、今回はその逆に磁界が電気に及ぼす力を見ていきたいと思います。間違えやすいのですが、磁石間で発生する磁力とはまた別の力なので混同しないようにしましょう。では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/16/20180116/#more">Read More</a>
+            <a href="/2018/02/16/20180216/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/16/20180116/" data-id="cjihxz2280015c4u7bxgy7ekr" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/16/20180216/" data-id="cjkpgx723004a6ou7oyqoz8bd" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180115" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180215" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/15/20180115/" class="article-date">
-  <time datetime="2018-01-15T02:49:38.000Z" itemprop="datePublished">2018-01-15</time>
+    <a href="/2018/02/15/20180215/" class="article-date">
+  <time datetime="2018-02-15T02:51:26.000Z" itemprop="datePublished">2018-02-15</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/電磁力/">電磁力</a>
   </div>
   </div>
   <div class="article-inner">
@@ -167,7 +153,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/15/20180115/">金属管工事</a>
+      <a class="article-title" href="/2018/02/15/20180215/">磁界</a>
     </h1>
       </header>
     
@@ -193,38 +179,37 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#jin-shu-guan-gong-shi-deshi-ucai-liao">金属管工事で使う材料</a></li>
-<li><a href="#jin-shu-guan-tobotukusunojie-sok-bu-fen-deshi-ucai-liao">金属管とボックスの接続部分で使う材料</a><ul>
-<li><a href="#bo-gang-dian-xian-guan-tobotukusunojie-sok-nibi-yao-nacai-liao">薄鋼電線管とボックスの接続に必要な材料</a></li>
-<li><a href="#nezinasidian-xian-guan-tobotukusunojie-sok-fang-fa-tobi-yao-nacai-liao">ねじなし電線管とボックスの接続方法と必要な材料</a></li>
+<li><a href="#ci-li-ci-qi-li">磁力（磁気力）</a><ul>
+<li><a href="#ci-shi-toci-qi">磁石と磁気</a></li>
+<li><a href="#ci-qi-you-dao">磁気誘導</a></li>
+<li><a href="#ci-jie">磁界</a></li>
 </ul>
 </li>
-<li><a href="#guan-xiang-hu-nojie-sok-bu-fen-deshi-ucai-liao">管相互の接続部分で使う材料</a><ul>
-<li><a href="#bo-gang-dian-xian-guan-xiang-hu-nojie-sok-nishi-ucai-liao">薄鋼電線管相互の接続に使う材料</a></li>
-<li><a href="#nezinasidian-xian-guan-xiang-hu-nojie-sok-nishi-ucai-liao">ねじなし電線管相互の接続に使う材料</a></li>
-<li><a href="#yi-naruzhong-lei-nodian-xian-guan-xiang-hu-nojie-sok-nishi-ucai-liao">異なる種類の電線管相互の接続に使う材料</a></li>
-<li><a href="#qu-gebu-fen-nishi-ucai-liao">曲げ部分に使う材料</a></li>
+<li><a href="#ci-qi-niguan-surukuronnofa-ze">磁気に関するクーロンの法則</a><ul>
+<li><a href="#ci-li-noxiang-ki">磁力の向き</a></li>
+<li><a href="#ci-li-noda-kisa">磁力の大きさ</a></li>
 </ul>
 </li>
-<li><a href="#jin-shu-guan-nozhong-duan-bu-fen-nishi-ucai-liao">金属管の終端部分に使う材料</a><ul>
-<li><a href="#jue-yuan-butusingu-2">絶縁ブッシング</a></li>
-<li><a href="#nezinasibutusingu">ねじなしブッシング</a></li>
-<li><a href="#entoransukiyatupu">エントランスキャップ</a></li>
-<li><a href="#uezakiyatupu">ウェザーキャップ</a></li>
-<li><a href="#taminarukiyatupu">ターミナルキャップ</a></li>
+<li><a href="#ci-jie-1">磁界</a><ul>
+<li><a href="#ci-jie-noqiang-sa">磁界の強さ</a></li>
+<li><a href="#dian-ci-he-niyoruci-jie-noqiang-sa">点磁荷による磁界の強さ</a></li>
+<li><a href="#ci-li-xian">磁力線</a></li>
+<li><a href="#ci-shu-toci-shu-mi-du">磁束と磁束密度</a></li>
 </ul>
 </li>
-<li><a href="#jin-shu-guan-nojie-di-nishi-ucai-liao">金属管の接地に使う材料</a><ul>
-<li><a href="#jie-di-jin-ju-raziasukuranpu">接地金具（ラジアスクランプ）</a></li>
+<li><a href="#dian-liu-toci-jie-noxiang-ki">電流と磁界の向き</a><ul>
+<li><a href="#anpeanoyou-nezinofa-ze">アンペアの右ねじの法則</a></li>
+<li><a href="#yuan-xing-koirunozhong-xin-bu-noci-jie-nodong-ki">円形コイルの中心部の磁界の動き</a></li>
+<li><a href="#xi-chang-iyuan-tong-zhuang-nokoirunoci-jie-noxiang-ki">細長い円筒状のコイルの磁界の向き</a></li>
 </ul>
 </li>
-<li><a href="#jin-shu-guan-gong-shi-nishi-ugong-ju">金属管工事に使う工具</a><ul>
-<li><a href="#uotaponpupuraiya">ウォーターポンププライヤ</a></li>
-<li><a href="#paipurenti">パイプレンチ</a></li>
-<li><a href="#notukuautopantiya">ノックアウトパンチャ</a></li>
-<li><a href="#tatupu">タップ</a></li>
-<li><a href="#horuso">ホルソ</a></li>
-<li><a href="#zhen-dong-doriru-hui-zhuan-zhen-dong-qie-riti-eshi">振動ドリル（回転、振動切り替え式）</a></li>
+<li><a href="#dian-liu-toci-jie-noda-kisa">電流と磁界の大きさ</a><ul>
+<li><a href="#dian-liu-toci-jie-noguan-xi-shi-nogai-yao">電流と磁界の関係式の概要</a></li>
+<li><a href="#biobazarunofa-ze">ビオ・バザールの法則</a></li>
+<li><a href="#yuan-xing-koirunozhong-xin-noci-jie">円形コイルの中心の磁界</a></li>
+<li><a href="#anpeanozhou-hui-lu-anpeanozhou-hui-ji-fen-nofa-ze">アンペアの周回路（アンペアの周回積分）の法則</a></li>
+<li><a href="#zhi-xian-zhuang-dao-ti-noci-jie">直線状導体の磁界</a></li>
+<li><a href="#huan-zhuang-koirunei-bu-noci-jie">環状コイル内部の磁界</a></li>
 </ul>
 </li>
 <li><a href="#atogaki">あとがき</a></li>
@@ -232,30 +217,30 @@
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は金属管工事に関しての材料・工具を見ていきます。<br>　では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回から電磁力、つまり、電気と磁気について書きます。今回は、磁界について見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/15/20180115/#more">Read More</a>
+            <a href="/2018/02/15/20180215/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/15/20180115/" data-id="cjihxz2240011c4u7bgt0fh4x" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/15/20180215/" data-id="cjkpgx72100466ou71kjlil5h" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180114" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180214" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/14/20180114/" class="article-date">
-  <time datetime="2018-01-14T02:49:38.000Z" itemprop="datePublished">2018-01-14</time>
+    <a href="/2018/02/14/20180214/" class="article-date">
+  <time datetime="2018-02-14T02:51:26.000Z" itemprop="datePublished">2018-02-14</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/静電気/">静電気</a>
   </div>
   </div>
   <div class="article-inner">
@@ -263,7 +248,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/14/20180114/">電線管と加工用工具</a>
+      <a class="article-title" href="/2018/02/14/20180214/">コンデンサ</a>
     </h1>
       </header>
     
@@ -289,57 +274,48 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#guan-nozhong-lei">管の種類</a><ul>
-<li><a href="#bo-gang-dian-xian-guan-jin-shu-guan">薄鋼電線管（金属管）</a></li>
-<li><a href="#nezinasidian-xian-guan-e-jin-shu-guan">ねじなし電線管（E : 金属管）</a></li>
-<li><a href="#he-cheng-shu-zhi-zhi-ke-toudian-xian-guan-pf-guan-cd-guan">合成樹脂製可とう電線管（PF管・CD管）</a></li>
-<li><a href="#ying-zhi-yan-hua-binirudian-xian-guan-ve-guan">硬質塩化ビニル電線管（VE管）</a></li>
+<li><a href="#kondensatojing-dian-rong-liang">コンデンサと静電容量</a><ul>
+<li><a href="#kondensatoha">コンデンサとは</a></li>
+<li><a href="#jing-dian-rong-liang">静電容量</a></li>
 </ul>
 </li>
-<li><a href="#guan-lei-nozhong-lei-totai-sanobiao-ji-fa">管類の種類と太さの表記法</a></li>
-<li><a href="#dian-xian-guan-nojia-gong-nishi-ugong-ju">電線管の加工に使う工具</a><ul>
-<li><a href="#jin-shu-guan-nojia-gong-nishi-ugong-ju">金属管の加工に使う工具</a></li>
-<li><a href="#jin-shu-guan-noneziqie-rinishi-ugong-ju">金属管のねじ切りに使う工具</a></li>
-<li><a href="#he-cheng-shu-zhi-guan-nojia-gong-nishi-ugong-ju">合成樹脂管の加工に使う工具</a></li>
+<li><a href="#you-dao-lu-zhen-kong-noyou-dian-lu-bi-you-dian-lu">誘導率・真空の誘電率・比誘電率</a><ul>
+<li><a href="#kondensadekao-eruyou-dian-lu">コンデンサで考える誘電率</a></li>
+<li><a href="#kondensadekao-eruzhen-kong-noyou-dian-lu">コンデンサで考える真空の誘電率</a></li>
+<li><a href="#kondensadekao-erubi-you-dian-lu">コンデンサで考える比誘電率</a></li>
 </ul>
 </li>
-<li><a href="#dian-xian-guan-wozao-ying-cai-nigu-ding-surushi-nishi-ucai-liao-togong-ju">電線管を造営材に固定する時に使う材料と工具</a><ul>
-<li><a href="#sadoru">サドル</a></li>
-<li><a href="#karuhuragu">カールフラグ</a></li>
-<li><a href="#dian-xian-guan-zhi-chi-jin-ju-pairatuku">電線管支持金具（パイラック）</a></li>
-<li><a href="#dian-xian-guan-zhi-chi-jin-ju-dakutakuritupu">電線管支持金具（ダクタクリップ）</a></li>
-<li><a href="#ziyanpingu">ジャンピング</a></li>
-</ul>
-</li>
+<li><a href="#kondensanobing-lie-jie-sok-tozhi-lie-jie-sok">コンデンサの並列接続と直列接続</a></li>
+<li><a href="#kondensanixu-erarerujing-dian-enerugi">コンデンサに蓄えられる静電エネルギー</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は電線管工事を取り上げます。電線管工事とは、電線保護の為に金属製や樹脂製の管に電線を収めて配管する工事です。電線管とその周りの工具など多種多様なので、覚えて帰ってください。では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、コンデンサについて見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/14/20180114/#more">Read More</a>
+            <a href="/2018/02/14/20180214/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/14/20180114/" data-id="cjihxz222000yc4u7yxvzsuxs" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/14/20180214/" data-id="cjkpgx71y00436ou7npimgc3q" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180113" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180213" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/13/20180113/" class="article-date">
-  <time datetime="2018-01-13T02:49:38.000Z" itemprop="datePublished">2018-01-13</time>
+    <a href="/2018/02/13/20180213/" class="article-date">
+  <time datetime="2018-02-13T02:51:26.000Z" itemprop="datePublished">2018-02-13</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/静電気/">静電気</a>
   </div>
   </div>
   <div class="article-inner">
@@ -347,7 +323,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/13/20180113/">埋込形スイッチボックス</a>
+      <a class="article-title" href="/2018/02/13/20180213/">電界と電位</a>
     </h1>
       </header>
     
@@ -373,46 +349,44 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#mai-ip-xing-suitutibotukusunoshi-gong-fa">埋込形スイッチボックスの施工法</a></li>
-<li><a href="#mai-ip-xing-suitutibotukusugong-shi">埋込形スイッチボックス工事</a><ul>
-<li><a href="#mai-ip-xing-suitutibotukusu-he-cheng-shu-zhi-zhi">埋込形スイッチボックス（合成樹脂製）</a></li>
-<li><a href="#mai-ip-xing-suitutibotukusu">埋込形スイッチボックス</a></li>
-<li><a href="#gomubutusingu">ゴムブッシング</a></li>
-<li><a href="#tu-risirokaba">塗りしろカバー</a></li>
-<li><a href="#mai-ip-lian-yong-qu-fu-waku">埋込連用取付枠</a></li>
-<li><a href="#pureto-1-ge-yong-2-ge-yong-3-ge-yong">プレート（1個用、2個用、3個用）</a></li>
+<li><a href="#dian-wei-todian-jie-todian-ya">電位と電界と電圧</a></li>
+<li><a href="#dian-wei">電位</a><ul>
+<li><a href="#dian-wei-1">電位</a></li>
+<li><a href="#dian-wei-chai">電位差</a></li>
+<li><a href="#ping-xing-ping-ban-dian-ji">平行平板電極</a></li>
+<li><a href="#deng-dian-wei-mian">等電位面</a></li>
 </ul>
 </li>
-<li><a href="#pei-xian-tu-wojian-teqi-ju-noshi-gong-woimezi">配線図を見て器具の施工をイメージ</a></li>
+<li><a href="#you-dian-fen-ji">誘電分極</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、前回に引き続き工事系の話をひとつ。埋込型のスイッチの各種パーツをどうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電界と電位について見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/13/20180113/#more">Read More</a>
+            <a href="/2018/02/13/20180213/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/13/20180113/" data-id="cjihxz21y000uc4u7r920v1ig" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/13/20180213/" data-id="cjkpgx71v003y6ou7g29nurxc" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180112" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180212" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/12/20180112/" class="article-date">
-  <time datetime="2018-01-12T02:49:38.000Z" itemprop="datePublished">2018-01-12</time>
+    <a href="/2018/02/12/20180212/" class="article-date">
+  <time datetime="2018-02-12T02:51:26.000Z" itemprop="datePublished">2018-02-12</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/静電気/">静電気</a>
   </div>
   </div>
   <div class="article-inner">
@@ -420,7 +394,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/12/20180112/">ケーブル工事</a>
+      <a class="article-title" href="/2018/02/12/20180212/">電界</a>
     </h1>
       </header>
     
@@ -446,54 +420,43 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#keburugong-shi-noshi-gong-fa">ケーブル工事の施工法</a></li>
-<li><a href="#keburugong-shi-deshi-ucai-liao">ケーブル工事で使う材料</a><ul>
-<li><a href="#vvf-yong-ziyointobotukusu">VVF用ジョイントボックス</a></li>
-<li><a href="#duan-zi-fu-vvf-yong-ziyointobotukusu">端子付VVF用ジョイントボックス</a></li>
-<li><a href="#autoretutobotukusu">アウトレットボックス</a></li>
-<li><a href="#konkuritobotukusu">コンクリートボックス</a></li>
-<li><a href="#purubotukusu">プルボックス</a></li>
-<li><a href="#kebururatuku">ケーブルラック</a></li>
-<li><a href="#gomubutusingu">ゴムブッシング</a></li>
-<li><a href="#sutetupuru">ステップル</a></li>
+<li><a href="#dian-jie-toha">電界とは</a></li>
+<li><a href="#2tuyi-shang-nodian-jie">２つ以上の電界</a></li>
+<li><a href="#dian-qi-li-xian">電気力線</a><ul>
+<li><a href="#dian-qi-li-xian-noruru">電気力線のルール</a></li>
 </ul>
 </li>
-<li><a href="#keburugong-shi-deshi-ugong-ju">ケーブル工事で使う工具</a><ul>
-<li><a href="#gennou-jin-chui">げんのう（金槌）</a></li>
-<li><a href="#kuritukuboru">クリックボール</a></li>
-<li><a href="#yu-gen-giri">羽根ぎり</a></li>
-<li><a href="#mu-gong-doriru">木工ドリル</a></li>
-</ul>
-</li>
+<li><a href="#jing-dian-zhe-bi">静電遮蔽</a></li>
+<li><a href="#dian-shu-todian-su-yi-mi-du">電束と電素億密度</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、資格名の「工事士」の名前の通り、工事に関して書いてみようと思います。本日取り扱うのは、ケーブル工事です。それでは、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電界について書いていきます。前回、静電力について書きましたが、その静電力の影響を受ける空間を電界といいます。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/12/20180112/#more">Read More</a>
+            <a href="/2018/02/12/20180212/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/12/20180112/" data-id="cjihxz21v000rc4u7cikkg2o4" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/12/20180212/" data-id="cjkpgx71r003v6ou77pzxhu5b" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180111" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180211" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/11/20180111/" class="article-date">
-  <time datetime="2018-01-11T02:49:38.000Z" itemprop="datePublished">2018-01-11</time>
+    <a href="/2018/02/11/20180211/" class="article-date">
+  <time datetime="2018-02-11T02:51:26.000Z" itemprop="datePublished">2018-02-11</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/静電気/">静電気</a>
   </div>
   </div>
   <div class="article-inner">
@@ -501,7 +464,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/11/20180111/">電線接続</a>
+      <a class="article-title" href="/2018/02/11/20180211/">静電気に関するクーロンの法則</a>
     </h1>
       </header>
     
@@ -527,60 +490,40 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#dian-xian-tong-shi-nojie-sok-yao-jian-tojie-sok-cai-liao">電線同士の接続要件と接続材料</a><ul>
-<li><a href="#jue-yuan-tepunojuan-kifang">絶縁テープの巻き方</a></li>
-<li><a href="#ringusuripu-e-xing-ya-zhao-suripu">リングスリープ（E形）（圧着スリープ）</a></li>
-<li><a href="#chai-ip-xing-konekuta">差込形コネクタ</a></li>
-</ul>
-</li>
-<li><a href="#dian-xian-nojie-sok-zuo-ye-shou-shun">電線の接続作業手順</a><ul>
-<li><a href="#ringusuribujie-sok">リングスリーブ接続</a></li>
-</ul>
-</li>
-<li><a href="#dian-xian-nojie-sok-zuo-ye-nishi-ugong-ju">電線の接続作業に使う工具</a><ul>
-<li><a href="#dian-gong-naihu">電工ナイフ</a></li>
-<li><a href="#penti">ペンチ</a></li>
-<li><a href="#waiyasutoritupa">ワイヤストリッパ</a></li>
-<li><a href="#fkeburuyong-sutoritupa">Fケーブル用ストリッパ</a></li>
-<li><a href="#ringusuripuyong-ya-zhao-penti">リングスリープ用圧着ペンチ</a></li>
-<li><a href="#tong-xian-yong-luo-ya-zhao-duan-zi-toya-zhao-penti">銅線用裸圧着端子と圧着ペンチ</a></li>
-<li><a href="#dian-qi-handagote">電気はんだごて</a></li>
-<li><a href="#keburukatuta">ケーブルカッタ</a></li>
-<li><a href="#borutokuritupa">ボルトクリッパ</a></li>
-<li><a href="#shou-dong-you-ya-shi-keburukatuta">手動油圧式ケーブルカッタ</a></li>
-<li><a href="#shou-dong-you-ya-shi-ya-zhao-gong-ju">手動油圧式圧着工具</a></li>
-<li><a href="#shou-dong-you-ya-shi-ya-suo-gong-ju">手動油圧式圧縮工具</a></li>
-</ul>
-</li>
+<li><a href="#jing-dian-qi">静電気</a></li>
+<li><a href="#jing-dian-you-dao">静電誘導</a></li>
+<li><a href="#jing-dian-qi-niguan-surukuronnofa-ze">静電気に関するクーロンの法則</a></li>
+<li><a href="#yun-dong-fang-cheng-shi">運動方程式</a></li>
+<li><a href="#shi-shi">仕事</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電線の接続についていろいろ書いていきたいと思います。電源と電化製品が１本の線でつながれば問題ないのですが、実際は、建物の構造などの問題で、分岐や収束を繰り返して電気を伝えなければなりません。ですので、今回は、それらの手法を説明します。<br>では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回から静電気に関して色々書いていきたいと思います。では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/11/20180111/#more">Read More</a>
+            <a href="/2018/02/11/20180211/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/11/20180111/" data-id="cjihxz21r000mc4u7h5gretrk" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/11/20180211/" data-id="cjkpgx71o003q6ou7tdmfut9q" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180110" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180210" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/10/20180110/" class="article-date">
-  <time datetime="2018-01-10T02:49:38.000Z" itemprop="datePublished">2018-01-10</time>
+    <a href="/2018/02/10/20180210/" class="article-date">
+  <time datetime="2018-02-10T02:51:26.000Z" itemprop="datePublished">2018-02-10</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/直流回路/">直流回路</a>
   </div>
   </div>
   <div class="article-inner">
@@ -588,7 +531,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/10/20180110/">絶縁電線とケーブル</a>
+      <a class="article-title" href="/2018/02/10/20180210/">電力と電力量</a>
     </h1>
       </header>
     
@@ -614,21 +557,11 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#jue-yuan-dian-xian">絶縁電線</a><ul>
-<li><a href="#indoaer-biru-iv">インドア二ビル（IV）</a></li>
-<li><a href="#ekomateriaruindoaporietiren">エコ・マテリアル・インドア・ポリエチレン</a></li>
-<li><a href="#rabakotutonbureidetudo">ラバー・コットン・ブレイデッド</a></li>
-<li><a href="#dorotupuwaiyabiniru">ドロップワイヤ・ビニル</a></li>
-<li><a href="#autodoauezapuruhu">アウトドア・ウェザープルーフ</a></li>
-</ul>
-</li>
-<li><a href="#keburu">ケーブル</a><ul>
-<li><a href="#binirujue-yuan-biniruwai-zhuang">ビニル絶縁・ビニル外装</a></li>
-<li><a href="#ekomateriaru">エコ・マテリアル</a></li>
-<li><a href="#kurosurinkudoporietirenbiniru">クロスリンクド・ポリエチレン・ビニル</a></li>
-<li><a href="#mineraruinsiyuretetudo">ミネラル・インシュレーテッド</a></li>
-<li><a href="#kiyabutaiya">キャブタイヤ</a></li>
-<li><a href="#binirukiyabutaiya">ビニル・キャブタイヤ</a></li>
+<li><a href="#dian-li">電力</a></li>
+<li><a href="#dian-li-liang">電力量</a></li>
+<li><a href="#ziyurure">ジュール熱</a><ul>
+<li><a href="#re-toyun-dong">熱と運動</a></li>
+<li><a href="#ziyurure-gafa-sheng-suruli-you">ジュール熱が発生する理由</a></li>
 </ul>
 </li>
 <li><a href="#atogaki">あとがき</a></li>
@@ -636,30 +569,30 @@
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、ケーブルについて見ていきたいと思います。電動機が発生させたエネルギーを伝えるケーブルは、これまた電気工事で重要なパーツです。<br>　では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電力と電力量について見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/10/20180110/#more">Read More</a>
+            <a href="/2018/02/10/20180210/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/10/20180110/" data-id="cjihxz21p000kc4u7a05mjb29" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/10/20180210/" data-id="cjkpgx71m003n6ou7zkrej1jt" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180109" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180209" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/09/20180109/" class="article-date">
-  <time datetime="2018-01-09T05:44:24.000Z" itemprop="datePublished">2018-01-09</time>
+    <a href="/2018/02/09/20180209/" class="article-date">
+  <time datetime="2018-02-09T02:51:26.000Z" itemprop="datePublished">2018-02-09</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/配線図記号/">配線図記号</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/直流回路/">直流回路</a>
   </div>
   </div>
   <div class="article-inner">
@@ -667,7 +600,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/09/20180109/">電動機・電熱器配線</a>
+      <a class="article-title" href="/2018/02/09/20180209/">複雑な電気回路</a>
     </h1>
       </header>
     
@@ -693,63 +626,49 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#dian-dong-ji-yadian-re-qi-pei-xian-noji-qi-totu-ji-hao">電動機や電熱器配線の機器と図記号</a><ul>
-<li><a href="#dian-dong-ji-mota">電動機（モータ）</a></li>
-<li><a href="#kondensa">コンデンサ</a></li>
-<li><a href="#kabafu-naihusuituti">カバー付ナイフスイッチ</a></li>
-<li><a href="#dian-liu-ji-fu-xiang-kai-bi-qi">電流計付箱開閉器</a></li>
-<li><a href="#pei-xian-yong-zhe-duan-qi-dian-dong-ji-bao-hu-ji-neng-fu">配線用遮断器（電動機保護機能付）</a></li>
-<li><a href="#lou-dian-zhe-duan-qi-guo-fu-he-bao-hu-fu">漏電遮断器（過負荷保護付）</a></li>
-<li><a href="#dian-re-qi">電熱器</a></li>
-<li><a href="#taimusuituti">タイムスイッチ</a></li>
+<li><a href="#duan-luo-tokai-fang">短絡と開放</a><ul>
+<li><a href="#duan-luo">短絡</a></li>
+<li><a href="#kai-fang">開放</a></li>
 </ul>
 </li>
-<li><a href="#dian-ci-kai-bi-qi-dedian-dong-ji-mota-wozhi-yu-suru">電磁開閉器で電動機（モータ）を制御する</a><ul>
-<li><a href="#dian-ci-kai-bi-qi">電磁開閉器</a></li>
-<li><a href="#dian-ci-kai-bi-qi-yong-ya-sibotan">電磁開閉器用押しボタン</a></li>
-<li><a href="#ya-li-suituti">圧力スイッチ</a></li>
-<li><a href="#hurotosuituti">フロートスイッチ</a></li>
-<li><a href="#hurotoresusuitutidian-ji-bang">フロートレススイッチ電極棒</a></li>
+<li><a href="#chong-nehe-wasenoli-chong-nenoli">重ね合わせの理（重ねの理）</a></li>
+<li><a href="#dian-chi-nonei-bu-di-kang-totebunannoding-li-deng-jia-dian-ya-yuan-ding-li">電池の内部抵抗とテブナンの定理（等価電圧源定理）</a><ul>
+<li><a href="#dian-chi-nonei-bu-di-kang">電池の内部抵抗</a></li>
+<li><a href="#tebunannoding-li-deng-jia-dian-ya-ding-li">テブナンの定理（等価電圧定理）</a></li>
 </ul>
 </li>
-<li><a href="#dian-qi-ji-qi">電器機器</a><ul>
-<li><a href="#rumueakonwu-nei-yunituto">ルームエアコン屋内ユニット</a></li>
-<li><a href="#rumueakonwu-wai-yunituto">ルームエアコン屋外ユニット</a></li>
-<li><a href="#huan-qi-shan">換気扇</a></li>
-<li><a href="#buzatotiyaimu">ブザーとチャイム</a></li>
-<li><a href="#beru">ベル</a></li>
-<li><a href="#beruyong-toransu-xiao-xing-bian-ya-qi">ベル用トランス（小形変圧器）</a></li>
-</ul>
-</li>
+<li><a href="#mirumannoding-li-quan-dian-ya-noding-li">ミルマンの定理（全電圧の定理）</a></li>
+<li><a href="#burituzihui-lu-hoitosutonburituzi-noping-heng-tiao-jian">ブリッジ回路（ホイートストンブリッジ）の平衡条件</a></li>
+<li><a href="#di-kang-nod-ybian-huan">抵抗のΔ－Ｙ変換</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電気エネルギーを作り出す電動機の類を見ていきます。特に補足事項もありませんので早速どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、複雑な電気回路について見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/09/20180109/#more">Read More</a>
+            <a href="/2018/02/09/20180209/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/09/20180109/" data-id="cjihxz21k000gc4u7cx9al8ir" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/09/20180209/" data-id="cjkpgx71j003i6ou7kj6c2gd1" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/配線図記号/">配線図記号</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180108" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180208" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/08/20180108/" class="article-date">
-  <time datetime="2018-01-08T05:44:24.000Z" itemprop="datePublished">2018-01-08</time>
+    <a href="/2018/02/08/20180208/" class="article-date">
+  <time datetime="2018-02-08T02:51:26.000Z" itemprop="datePublished">2018-02-08</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/配線図記号/">配線図記号</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/直流回路/">直流回路</a>
   </div>
   </div>
   <div class="article-inner">
@@ -757,7 +676,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/08/20180108/">スイッチまわり</a>
+      <a class="article-title" href="/2018/02/08/20180208/">キルヒホッフの法則</a>
     </h1>
       </header>
     
@@ -783,63 +702,37 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#suitutinoyong-tu-tutehe">スイッチの用途って何？</a></li>
-<li><a href="#dan-ji-suituti">単極スイッチ</a><ul>
-<li><a href="#waidohandoruxing-suituti">ワイドハンドル形スイッチ</a></li>
-</ul>
-</li>
-<li><a href="#3lu-suitutito4lu-suituti">３路スイッチと４路スイッチ</a></li>
-<li><a href="#suitutiiroiro">スイッチいろいろ</a><ul>
-<li><a href="#dan-ji-suituti-1">単極スイッチ</a></li>
-<li><a href="#2ji-suituti">２極スイッチ</a></li>
-<li><a href="#3lu-suituti">３路スイッチ</a></li>
-<li><a href="#4lu-suituti">４路スイッチ</a></li>
-<li><a href="#biao-shi-deng-nei-zang-suituti">表示灯内蔵スイッチ</a></li>
-<li><a href="#pairotutoranpu">パイロットランプ</a></li>
-<li><a href="#zi-dong-dian-mie-qi">自動点滅器</a></li>
-<li><a href="#diao-guang-qi">調光器</a></li>
-<li><a href="#purusuituti">プルスイッチ</a></li>
-<li><a href="#ya-sibotansuituti">押しボタンスイッチ</a></li>
-<li><a href="#kiyanopisuituti">キャノピースイッチ</a></li>
-<li><a href="#sonota-nosuitutiji-hao">その他のスイッチ記号</a></li>
-</ul>
-</li>
-<li><a href="#rimokonpei-xian-noshi-zu-mi">リモコン配線の仕組み</a><ul>
-<li><a href="#rimokonsuituti">リモコンスイッチ</a></li>
-<li><a href="#rimokonrire">リモコンリレー</a></li>
-<li><a href="#rimokonserekutasuituti">リモコンセレクタスイッチ</a></li>
-<li><a href="#rimokontoransu-xiao-xing-bian-ya-qi">リモコントランス（小形変圧器）</a></li>
-</ul>
-</li>
+<li><a href="#kiruhihotuhunodi-yi-fa-ze-dian-liu-ce">キルヒホッフの第一法則（電流測）</a></li>
+<li><a href="#kiruhihotuhunodi-er-fa-ze-dian-ya-ce">キルヒホッフの第二法則（電圧測）</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回はスイッチまわりの機器や図を扱います。スイッチは、電気の使用者が使いやすいように、接地場所と形状に注意しないといけません。<br>　では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、キルヒホッフの法則について見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/08/20180108/#more">Read More</a>
+            <a href="/2018/02/08/20180208/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/08/20180108/" data-id="cjihxz21h000ec4u7j66doqgc" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/08/20180208/" data-id="cjkpgx71h003f6ou7swtmajl1" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/配線図記号/">配線図記号</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
 </article>
   
-    <article id="post-20180107" class="article article-type-post" itemscope itemprop="blogPost">
+    <article id="post-20180207" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
-    <a href="/2018/01/07/20180107/" class="article-date">
-  <time datetime="2018-01-07T05:44:24.000Z" itemprop="datePublished">2018-01-07</time>
+    <a href="/2018/02/07/20180207/" class="article-date">
+  <time datetime="2018-02-07T02:51:26.000Z" itemprop="datePublished">2018-02-07</time>
 </a>
     <div class="article-category">
-    <a class="article-category-link" href="/categories/第２種電気工事士/">第２種電気工事士</a>►<a class="article-category-link" href="/categories/第２種電気工事士/配線図記号/">配線図記号</a>
+    <a class="article-category-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a>►<a class="article-category-link" href="/categories/第三種電気主任技術者試験/理論/直流回路/">直流回路</a>
   </div>
   </div>
   <div class="article-inner">
@@ -847,7 +740,7 @@
     
       <header class="article-header">
         <h1 itemprop="name">
-      <a class="article-title" href="/2018/01/07/20180107/">コンセントまわり</a>
+      <a class="article-title" href="/2018/02/07/20180207/">導体抵抗の大きさ</a>
     </h1>
       </header>
     
@@ -873,43 +766,25 @@
 <!-- toc -->
 <ul>
 <li><a href="#maegaki">まえがき</a></li>
-<li><a href="#konsentoiroiro">コンセントいろいろ</a><ul>
-<li><a href="#konsento">コンセント</a></li>
-<li><a href="#jie-di-ji-fu-konsento">接地極付コンセント</a></li>
-<li><a href="#jie-di-duan-zi-fu-konsento">接地端子付コンセント</a></li>
-<li><a href="#jie-di-ji-fu-jie-di-duan-zi-fu-konsento">接地極付接地端子付コンセント</a></li>
-<li><a href="#ba-zhi-xing-konsento">抜止形コンセント</a></li>
-<li><a href="#yin-gua-xing-konsento">引掛形コンセント</a></li>
-<li><a href="#huroakonsento">フロアコンセント</a></li>
-<li><a href="#fang-yu-xing-konsento">防雨形コンセント</a></li>
-<li><a href="#lou-dian-zhe-duan-qi-fu-konsento">漏電遮断器付コンセント</a></li>
-<li><a href="#jie-di-duan-zi">接地端子</a></li>
-</ul>
-</li>
-<li><a href="#jie-di-ce-tojie-di-ji-gadouwei-uka">接地側と接地極がどう違うか？</a></li>
-<li><a href="#dian-ya-rong-liang-niyoruren-shou-kexing-zhuang-nowei-i">電圧、容量による刃受け形状の違い</a><ul>
-<li><a href="#dan-xiang-100v-15a20a-jian-yong">単相 100V/15A・20A 兼用</a></li>
-<li><a href="#dan-xiang-200v-15a20a-jian-yong">単相 200V/15A・20A 兼用</a></li>
-<li><a href="#san-xiang-200v-yong">三相 200V 用</a></li>
-</ul>
-</li>
+<li><a href="#di-kang-lu-todao-dian-lu">抵抗率と導電率</a></li>
+<li><a href="#di-kang-wen-du-xi-shu">抵抗温度係数</a></li>
 <li><a href="#atogaki">あとがき</a></li>
 </ul>
 <!-- tocstop -->
 <div class="tocEnd"></div>
 
-<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、電源であるコンセントまわりの器具と記号を取り扱います。コンセントの図記号は基本形に種類や定格の情報を文字で追記します。これらの文字を省略した場合、100V 用コンセント（定格125V15A）を表わす事に注意してください。では、どうぞ。</p>
+<h2 id="まえがき"><a href="#まえがき" class="headerlink" title="まえがき"></a>まえがき</h2><p>　こんにちわ。今回は、抵抗率と導電率と抵抗温度係数について見ていきたいと思います。<br>　では、どうぞ。</p>
         
           <p class="article-more-link">
-            <a href="/2018/01/07/20180107/#more">Read More</a>
+            <a href="/2018/02/07/20180207/#more">Read More</a>
           </p>
         
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://localhost:4000/2018/01/07/20180107/" data-id="cjihxz21d000bc4u7tz0yvqmh" class="article-share-link">Share</a>
+      <a data-url="http://localhost:4000/2018/02/07/20180207/" data-id="cjkpgx71e003a6ou749jjmdse" class="article-share-link">Share</a>
       
-      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/配線図記号/">配線図記号</a></li></ul>
+      <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/電験理論/">電験理論</a></li></ul>
     </footer>
   </div>
   
@@ -918,7 +793,7 @@
 
 
   <nav id="page-nav">
-    <a class="extend prev" rel="prev" href="/page/2/">&laquo; 新しい記事</a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><a class="extend next" rel="next" href="/page/4/">過去記事 &raquo;</a>
+    <a class="extend prev" rel="prev" href="/page/2/">&laquo; 新しい記事</a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><a class="page-number" href="/page/5/">5</a><span class="space">&hellip;</span><a class="page-number" href="/page/7/">7</a><a class="extend next" rel="next" href="/page/4/">過去記事 &raquo;</a>
   </nav></section>
         
           <aside id="sidebar">
@@ -926,28 +801,28 @@
     <div class="widget-wrap">
     <h3 class="widget-title">Categories</h3>
     <div class="widget">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/数学/">数学</a><span class="category-list-count">9</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a><span class="category-list-count">7</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/機械/">機械</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/機械/機械の基礎/">機械の基礎</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/法規/">法規</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/法規/法規の基礎/">法規の基礎</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/理論の基礎/">理論の基礎</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/直流回路/">直流回路</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/電気の基礎/">電気の基礎</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/試験計画/">試験計画</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/電力/">電力</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/電力/電力の基礎/">電力の基礎</a><span class="category-list-count">1</span></li></ul></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/">第２種電気工事士</a><span class="category-list-count">19</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a><span class="category-list-count">11</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/試験計画/">試験計画</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/配線図記号/">配線図記号</a><span class="category-list-count">7</span></li></ul></li></ul>
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/数学/">数学</a><span class="category-list-count">9</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/">第三種電気主任技術者試験</a><span class="category-list-count">26</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/機械/">機械</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/機械/機械の基礎/">機械の基礎</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/法規/">法規</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/法規/法規の基礎/">法規の基礎</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/">理論</a><span class="category-list-count">22</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/交流回路/">交流回路</a><span class="category-list-count">5</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/理論の基礎/">理論の基礎</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/直流回路/">直流回路</a><span class="category-list-count">6</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/電気の基礎/">電気の基礎</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/電磁力/">電磁力</a><span class="category-list-count">5</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/理論/静電気/">静電気</a><span class="category-list-count">4</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/試験計画/">試験計画</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/電力/">電力</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第三種電気主任技術者試験/電力/電力の基礎/">電力の基礎</a><span class="category-list-count">1</span></li></ul></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/">第２種電気工事士</a><span class="category-list-count">31</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/器具・工具・材料/">器具・工具・材料</a><span class="category-list-count">11</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/検査方法/">検査方法</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/試験計画/">試験計画</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/配線図記号/">配線図記号</a><span class="category-list-count">7</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/第２種電気工事士/配線設計/">配線設計</a><span class="category-list-count">10</span></li></ul></li></ul>
     </div>
   </div>
   
     <div class="widget-wrap">
     <h3 class="widget-title">Tags</h3>
     <div class="widget">
-      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/全体計画/">全体計画</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a><span class="tag-list-count">11</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/数学/">数学</a><span class="tag-list-count">9</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/試験計画/">試験計画</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/配線図記号/">配線図記号</a><span class="tag-list-count">7</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験機械/">電験機械</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験法規/">電験法規</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験理論/">電験理論</a><span class="tag-list-count">3</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験電力/">電験電力</a><span class="tag-list-count">1</span></li></ul>
+      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/全体計画/">全体計画</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/器具・工具・材料/">器具・工具・材料</a><span class="tag-list-count">11</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/数学/">数学</a><span class="tag-list-count">9</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/検査方法/">検査方法</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/試験計画/">試験計画</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/配線図記号/">配線図記号</a><span class="tag-list-count">7</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/配線設計/">配線設計</a><span class="tag-list-count">10</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験機械/">電験機械</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験法規/">電験法規</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験理論/">電験理論</a><span class="tag-list-count">22</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/電験電力/">電験電力</a><span class="tag-list-count">1</span></li></ul>
     </div>
   </div>
   
     <div class="widget-wrap">
     <h3 class="widget-title">Tag Cloud</h3>
     <div class="widget tagcloud">
-      <a href="/tags/全体計画/" style="font-size: 10px">全体計画</a> <a href="/tags/器具・工具・材料/" style="font-size: 20px">器具・工具・材料</a> <a href="/tags/数学/" style="font-size: 18px">数学</a> <a href="/tags/試験計画/" style="font-size: 12px">試験計画</a> <a href="/tags/配線図記号/" style="font-size: 16px">配線図記号</a> <a href="/tags/電験機械/" style="font-size: 10px">電験機械</a> <a href="/tags/電験法規/" style="font-size: 10px">電験法規</a> <a href="/tags/電験理論/" style="font-size: 14px">電験理論</a> <a href="/tags/電験電力/" style="font-size: 10px">電験電力</a>
+      <a href="/tags/全体計画/" style="font-size: 10px">全体計画</a> <a href="/tags/器具・工具・材料/" style="font-size: 18.33px">器具・工具・材料</a> <a href="/tags/数学/" style="font-size: 15px">数学</a> <a href="/tags/検査方法/" style="font-size: 11.67px">検査方法</a> <a href="/tags/試験計画/" style="font-size: 11.67px">試験計画</a> <a href="/tags/配線図記号/" style="font-size: 13.33px">配線図記号</a> <a href="/tags/配線設計/" style="font-size: 16.67px">配線設計</a> <a href="/tags/電験機械/" style="font-size: 10px">電験機械</a> <a href="/tags/電験法規/" style="font-size: 10px">電験法規</a> <a href="/tags/電験理論/" style="font-size: 20px">電験理論</a> <a href="/tags/電験電力/" style="font-size: 10px">電験電力</a>
     </div>
   </div>
   
     <div class="widget-wrap">
     <h3 class="widget-title">Archives</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/02/">2月 2018</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">1月 2018</a><span class="archive-list-count">31</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/03/">3月 2018</a><span class="archive-list-count">8</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/02/">2月 2018</a><span class="archive-list-count">28</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">1月 2018</a><span class="archive-list-count">31</span></li></ul>
     </div>
   </div>
   
@@ -957,23 +832,23 @@
       <ul>
         
           <li>
-            <a href="/2018/02/05/20180205/">電荷</a>
+            <a href="/2018/03/08/20180308/">測定計器</a>
           </li>
         
           <li>
-            <a href="/2018/02/04/20180204/">複素数</a>
+            <a href="/2018/03/07/20180307/">竣工検査と測定</a>
           </li>
         
           <li>
-            <a href="/2018/02/03/20180203/">ベクトル</a>
+            <a href="/2018/03/06/20180306/">小勢力回路・接地工事・漏電遮断器など</a>
           </li>
         
           <li>
-            <a href="/2018/02/02/20180202/">三角比と三角関数</a>
+            <a href="/2018/03/05/20180305/">工事いろいろ</a>
           </li>
         
           <li>
-            <a href="/2018/02/01/20180201/">最小定理</a>
+            <a href="/2018/03/04/20180304/">がいし引き・ケーブル・金属管工事</a>
           </li>
         
       </ul>
