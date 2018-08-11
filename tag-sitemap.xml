@@ -9,13 +9,6 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/</loc>
-        <lastmod>2018-05-25T05:47:07.340Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://localhost:4000/tags/%E8%A9%A6%E9%A8%93%E8%A8%88%E7%94%BB/</loc>
         <lastmod>2018-05-28T03:02:32.799Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -51,13 +44,6 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/tags/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/</loc>
-        <lastmod>2018-07-21T05:29:37.561Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/</loc>
         <lastmod>2018-07-23T12:38:39.401Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -65,15 +51,29 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/tags/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/</loc>
-        <lastmod>2018-08-11T13:36:53.256Z</lastmod>
+        <loc>http://localhost:4000/tags/%E5%99%A8%E5%85%B7%E3%83%BB%E5%B7%A5%E5%85%B7%E3%83%BB%E6%9D%90%E6%96%99/</loc>
+        <lastmod>2018-08-11T13:58:31.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E5%9B%B3%E8%A8%98%E5%8F%B7/</loc>
+        <lastmod>2018-08-11T13:58:48.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/</loc>
-        <lastmod>2018-08-11T13:40:24.167Z</lastmod>
+        <lastmod>2018-08-11T14:02:14.194Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/tags/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/</loc>
+        <lastmod>2018-08-11T14:02:22.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

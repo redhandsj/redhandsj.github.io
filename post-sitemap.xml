@@ -7,16 +7,8 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/2018/03/06/20180306/</loc>
-        <lastmod>2018-08-11T13:40:24.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://localhost:4000/2018/03/08/20180308/</loc>
-        <lastmod>2018-08-11T13:36:53.256Z</lastmod>
+        <lastmod>2018-08-11T14:02:22.772Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,7 +16,15 @@
 
     <url>
         <loc>http://localhost:4000/2018/03/07/20180307/</loc>
-        <lastmod>2018-08-11T13:24:42.818Z</lastmod>
+        <lastmod>2018-08-11T14:02:18.180Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/03/06/20180306/</loc>
+        <lastmod>2018-08-11T14:02:14.194Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -32,7 +32,7 @@
 
     <url>
         <loc>http://localhost:4000/2018/03/05/20180305/</loc>
-        <lastmod>2018-08-11T13:13:24.763Z</lastmod>
+        <lastmod>2018-08-11T14:02:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,7 +40,7 @@
 
     <url>
         <loc>http://localhost:4000/2018/03/04/20180304/</loc>
-        <lastmod>2018-08-11T13:11:23.537Z</lastmod>
+        <lastmod>2018-08-11T14:02:06.090Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -48,15 +48,7 @@
 
     <url>
         <loc>http://localhost:4000/2018/03/03/20180303/</loc>
-        <lastmod>2018-08-11T13:09:39.341Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/03/01/20180301/</loc>
-        <lastmod>2018-08-11T13:04:03.379Z</lastmod>
+        <lastmod>2018-08-11T14:02:01.013Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,15 +56,15 @@
 
     <url>
         <loc>http://localhost:4000/2018/03/02/20180302/</loc>
-        <lastmod>2018-08-11T12:53:06.544Z</lastmod>
+        <lastmod>2018-08-11T14:01:56.958Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://localhost:4000/2018/02/27/20180227/</loc>
-        <lastmod>2018-08-11T12:44:55.576Z</lastmod>
+        <loc>http://localhost:4000/2018/03/01/20180301/</loc>
+        <lastmod>2018-08-11T14:01:52.575Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -80,15 +72,15 @@
 
     <url>
         <loc>http://localhost:4000/2018/02/28/20180228/</loc>
-        <lastmod>2018-08-11T12:40:19.963Z</lastmod>
+        <lastmod>2018-08-11T14:01:47.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://localhost:4000/2018/02/25/20180225/</loc>
-        <lastmod>2018-08-10T11:17:20.661Z</lastmod>
+        <loc>http://localhost:4000/2018/02/27/20180227/</loc>
+        <lastmod>2018-08-11T14:01:43.207Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -96,7 +88,159 @@
 
     <url>
         <loc>http://localhost:4000/2018/02/26/20180226/</loc>
-        <lastmod>2018-08-10T11:16:46.741Z</lastmod>
+        <lastmod>2018-08-11T14:01:38.633Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/02/25/20180225/</loc>
+        <lastmod>2018-08-11T14:01:33.646Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/03/20180103/</loc>
+        <lastmod>2018-08-11T13:58:48.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/20/20180120/</loc>
+        <lastmod>2018-08-11T13:58:31.271Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/19/20180119/</loc>
+        <lastmod>2018-08-11T13:58:24.905Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/18/20180118/</loc>
+        <lastmod>2018-08-11T13:58:20.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/17/20180117/</loc>
+        <lastmod>2018-08-11T13:58:15.624Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/16/20180116/</loc>
+        <lastmod>2018-08-11T13:58:10.385Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/15/20180115/</loc>
+        <lastmod>2018-08-11T13:58:04.548Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/14/20180114/</loc>
+        <lastmod>2018-08-11T13:57:59.883Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/13/20180113/</loc>
+        <lastmod>2018-08-11T13:57:53.664Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/12/20180112/</loc>
+        <lastmod>2018-08-11T13:57:49.558Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/11/20180111/</loc>
+        <lastmod>2018-08-11T13:56:49.519Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/10/20180110/</loc>
+        <lastmod>2018-08-11T13:56:44.375Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/09/20180109/</loc>
+        <lastmod>2018-08-11T13:56:40.045Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/08/20180108/</loc>
+        <lastmod>2018-08-11T13:56:34.498Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/07/20180107/</loc>
+        <lastmod>2018-08-11T13:56:30.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/06/20180106/</loc>
+        <lastmod>2018-08-11T13:56:24.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/05/20180105/</loc>
+        <lastmod>2018-08-11T13:56:19.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/2018/01/04/20180104/</loc>
+        <lastmod>2018-08-11T13:56:15.366Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -137,14 +281,6 @@
     <url>
         <loc>http://localhost:4000/2018/02/20/20180220/</loc>
         <lastmod>2018-07-23T11:42:22.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/10/20180110/</loc>
-        <lastmod>2018-07-21T05:29:37.561Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -343,38 +479,6 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/2018/01/20/20180120/</loc>
-        <lastmod>2018-06-12T19:01:13.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/19/20180119/</loc>
-        <lastmod>2018-06-12T18:47:58.554Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/18/20180118/</loc>
-        <lastmod>2018-06-11T11:36:27.240Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/17/20180117/</loc>
-        <lastmod>2018-06-11T01:36:35.160Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://localhost:4000/2018/01/26/20180126/</loc>
         <lastmod>2018-06-06T23:10:32.098Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -423,112 +527,8 @@
     </url>
 
     <url>
-        <loc>http://localhost:4000/2018/01/16/20180116/</loc>
-        <lastmod>2018-05-27T02:50:22.832Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/15/20180115/</loc>
-        <lastmod>2018-05-26T05:54:37.517Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/14/20180114/</loc>
-        <lastmod>2018-05-26T05:27:40.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/13/20180113/</loc>
-        <lastmod>2018-05-26T05:05:37.847Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/12/20180112/</loc>
-        <lastmod>2018-05-26T04:57:19.789Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/11/20180111/</loc>
-        <lastmod>2018-05-26T04:45:05.501Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://localhost:4000/2018/01/02/20180102/</loc>
         <lastmod>2018-05-26T00:39:19.986Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/03/20180103/</loc>
-        <lastmod>2018-05-25T05:47:07.340Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/04/20180104/</loc>
-        <lastmod>2018-05-25T05:46:56.004Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/05/20180105/</loc>
-        <lastmod>2018-05-25T05:46:17.922Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/06/20180106/</loc>
-        <lastmod>2018-05-25T05:45:48.814Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/07/20180107/</loc>
-        <lastmod>2018-05-25T05:45:15.119Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/08/20180108/</loc>
-        <lastmod>2018-05-25T05:44:37.137Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://localhost:4000/2018/01/09/20180109/</loc>
-        <lastmod>2018-05-25T05:44:05.139Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
