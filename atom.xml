@@ -3,14 +3,14 @@
   <title>どこかの街の電気屋</title>
   <subtitle>電気関連の資格試験勉強ノート（Form 2018/1/1 ）</subtitle>
   
-  <link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <link href="https://redhandsj.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://redhandsj.github.io/" rel="alternate" type="text/html"/>
   <updated>
     
       2018-08-11T14:02:22.772Z
     
   </updated>
-  <id>http://localhost:4000/</id>
+  <id>https://redhandsj.github.io/</id>
   
   <author>
     <name>redhandsj</name>
@@ -21,8 +21,8 @@
   
   <entry>
     <title>測定計器</title>
-    <link href="http://localhost:4000/2018/03/08/20180308/"/>
-    <id>http://localhost:4000/2018/03/08/20180308/</id>
+    <link href="https://redhandsj.github.io/2018/03/08/20180308/"/>
+    <id>https://redhandsj.github.io/2018/03/08/20180308/</id>
     <published>2018-03-08T02:51:26.000Z</published>
     <updated>
       
@@ -74,21 +74,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="検査方法" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
+      <category term="検査方法" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
     
     
-      <category term="検査方法" scheme="http://localhost:4000/tags/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
+      <category term="検査方法" scheme="https://redhandsj.github.io/tags/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>竣工検査と測定</title>
-    <link href="http://localhost:4000/2018/03/07/20180307/"/>
-    <id>http://localhost:4000/2018/03/07/20180307/</id>
+    <link href="https://redhandsj.github.io/2018/03/07/20180307/"/>
+    <id>https://redhandsj.github.io/2018/03/07/20180307/</id>
     <published>2018-03-07T02:51:26.000Z</published>
     <updated>
       
@@ -142,21 +142,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="検査方法" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
+      <category term="検査方法" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
     
     
-      <category term="検査方法" scheme="http://localhost:4000/tags/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
+      <category term="検査方法" scheme="https://redhandsj.github.io/tags/%E6%A4%9C%E6%9F%BB%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>小勢力回路・接地工事・漏電遮断器など</title>
-    <link href="http://localhost:4000/2018/03/06/20180306/"/>
-    <id>http://localhost:4000/2018/03/06/20180306/</id>
+    <link href="https://redhandsj.github.io/2018/03/06/20180306/"/>
+    <id>https://redhandsj.github.io/2018/03/06/20180306/</id>
     <published>2018-03-06T02:51:26.000Z</published>
     <updated>
       
@@ -219,21 +219,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>工事いろいろ</title>
-    <link href="http://localhost:4000/2018/03/05/20180305/"/>
-    <id>http://localhost:4000/2018/03/05/20180305/</id>
+    <link href="https://redhandsj.github.io/2018/03/05/20180305/"/>
+    <id>https://redhandsj.github.io/2018/03/05/20180305/</id>
     <published>2018-03-05T02:51:26.000Z</published>
     <updated>
       
@@ -297,21 +297,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>がいし引き・ケーブル・金属管工事</title>
-    <link href="http://localhost:4000/2018/03/04/20180304/"/>
-    <id>http://localhost:4000/2018/03/04/20180304/</id>
+    <link href="https://redhandsj.github.io/2018/03/04/20180304/"/>
+    <id>https://redhandsj.github.io/2018/03/04/20180304/</id>
     <published>2018-03-04T02:51:26.000Z</published>
     <updated>
       
@@ -365,21 +365,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>施工場所と工事の種類</title>
-    <link href="http://localhost:4000/2018/03/03/20180303/"/>
-    <id>http://localhost:4000/2018/03/03/20180303/</id>
+    <link href="https://redhandsj.github.io/2018/03/03/20180303/"/>
+    <id>https://redhandsj.github.io/2018/03/03/20180303/</id>
     <published>2018-03-03T02:51:26.000Z</published>
     <updated>
       
@@ -420,21 +420,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>屋外配線</title>
-    <link href="http://localhost:4000/2018/03/02/20180302/"/>
-    <id>http://localhost:4000/2018/03/02/20180302/</id>
+    <link href="https://redhandsj.github.io/2018/03/02/20180302/"/>
+    <id>https://redhandsj.github.io/2018/03/02/20180302/</id>
     <published>2018-03-02T02:51:26.000Z</published>
     <updated>
       
@@ -476,21 +476,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>屋内幹線</title>
-    <link href="http://localhost:4000/2018/03/01/20180301/"/>
-    <id>http://localhost:4000/2018/03/01/20180301/</id>
+    <link href="https://redhandsj.github.io/2018/03/01/20180301/"/>
+    <id>https://redhandsj.github.io/2018/03/01/20180301/</id>
     <published>2018-03-01T02:51:26.000Z</published>
     <updated>
       
@@ -540,21 +540,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>過電流遮断器</title>
-    <link href="http://localhost:4000/2018/02/28/20180228/"/>
-    <id>http://localhost:4000/2018/02/28/20180228/</id>
+    <link href="https://redhandsj.github.io/2018/02/28/20180228/"/>
+    <id>https://redhandsj.github.io/2018/02/28/20180228/</id>
     <published>2018-02-28T02:51:26.000Z</published>
     <updated>
       
@@ -606,21 +606,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>絶縁電線の許容電流</title>
-    <link href="http://localhost:4000/2018/02/27/20180227/"/>
-    <id>http://localhost:4000/2018/02/27/20180227/</id>
+    <link href="https://redhandsj.github.io/2018/02/27/20180227/"/>
+    <id>https://redhandsj.github.io/2018/02/27/20180227/</id>
     <published>2018-02-27T02:51:26.000Z</published>
     <updated>
       
@@ -662,21 +662,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>配電方式と対地電圧</title>
-    <link href="http://localhost:4000/2018/02/26/20180226/"/>
-    <id>http://localhost:4000/2018/02/26/20180226/</id>
+    <link href="https://redhandsj.github.io/2018/02/26/20180226/"/>
+    <id>https://redhandsj.github.io/2018/02/26/20180226/</id>
     <published>2018-02-26T02:51:26.000Z</published>
     <updated>
       
@@ -721,21 +721,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>電気設備技術基準の規定</title>
-    <link href="http://localhost:4000/2018/02/25/20180225/"/>
-    <id>http://localhost:4000/2018/02/25/20180225/</id>
+    <link href="https://redhandsj.github.io/2018/02/25/20180225/"/>
+    <id>https://redhandsj.github.io/2018/02/25/20180225/</id>
     <published>2018-02-25T02:51:26.000Z</published>
     <updated>
       
@@ -780,21 +780,21 @@
     
     </summary>
     
-      <category term="第２種電気工事士" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
+      <category term="第２種電気工事士" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/"/>
     
-      <category term="筆記試験" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
+      <category term="筆記試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="配線設計" scheme="http://localhost:4000/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%EF%BC%92%E7%A8%AE%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB/%E7%AD%86%E8%A8%98%E8%A9%A6%E9%A8%93/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
     
-      <category term="配線設計" scheme="http://localhost:4000/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
+      <category term="配線設計" scheme="https://redhandsj.github.io/tags/%E9%85%8D%E7%B7%9A%E8%A8%AD%E8%A8%88/"/>
     
   </entry>
   
   <entry>
     <title>記号法</title>
-    <link href="http://localhost:4000/2018/02/24/20180224/"/>
-    <id>http://localhost:4000/2018/02/24/20180224/</id>
+    <link href="https://redhandsj.github.io/2018/02/24/20180224/"/>
+    <id>https://redhandsj.github.io/2018/02/24/20180224/</id>
     <published>2018-02-24T02:51:26.000Z</published>
     <updated>
       
@@ -855,21 +855,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="交流回路" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
+      <category term="交流回路" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>交流回路の電力</title>
-    <link href="http://localhost:4000/2018/02/23/20180223/"/>
-    <id>http://localhost:4000/2018/02/23/20180223/</id>
+    <link href="https://redhandsj.github.io/2018/02/23/20180223/"/>
+    <id>https://redhandsj.github.io/2018/02/23/20180223/</id>
     <published>2018-02-23T02:51:26.000Z</published>
     <updated>
       
@@ -920,21 +920,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="交流回路" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
+      <category term="交流回路" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>R-L-C並列回路の計算</title>
-    <link href="http://localhost:4000/2018/02/22/20180222/"/>
-    <id>http://localhost:4000/2018/02/22/20180222/</id>
+    <link href="https://redhandsj.github.io/2018/02/22/20180222/"/>
+    <id>https://redhandsj.github.io/2018/02/22/20180222/</id>
     <published>2018-02-22T02:51:26.000Z</published>
     <updated>
       
@@ -984,21 +984,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="交流回路" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
+      <category term="交流回路" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>R-L-C直列回路</title>
-    <link href="http://localhost:4000/2018/02/21/20180221/"/>
-    <id>http://localhost:4000/2018/02/21/20180221/</id>
+    <link href="https://redhandsj.github.io/2018/02/21/20180221/"/>
+    <id>https://redhandsj.github.io/2018/02/21/20180221/</id>
     <published>2018-02-21T02:51:26.000Z</published>
     <updated>
       
@@ -1047,21 +1047,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="交流回路" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
+      <category term="交流回路" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>正弦波交流</title>
-    <link href="http://localhost:4000/2018/02/20/20180220/"/>
-    <id>http://localhost:4000/2018/02/20/20180220/</id>
+    <link href="https://redhandsj.github.io/2018/02/20/20180220/"/>
+    <id>https://redhandsj.github.io/2018/02/20/20180220/</id>
     <published>2018-02-20T02:51:26.000Z</published>
     <updated>
       
@@ -1125,21 +1125,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="交流回路" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
+      <category term="交流回路" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E4%BA%A4%E6%B5%81%E5%9B%9E%E8%B7%AF/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>インダクタンスの基礎</title>
-    <link href="http://localhost:4000/2018/02/19/20180219/"/>
-    <id>http://localhost:4000/2018/02/19/20180219/</id>
+    <link href="https://redhandsj.github.io/2018/02/19/20180219/"/>
+    <id>https://redhandsj.github.io/2018/02/19/20180219/</id>
     <published>2018-02-19T02:51:26.000Z</published>
     <updated>
       
@@ -1191,21 +1191,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="電磁力" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E7%A3%81%E5%8A%9B/"/>
+      <category term="電磁力" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E7%A3%81%E5%8A%9B/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>電磁誘導</title>
-    <link href="http://localhost:4000/2018/02/18/20180218/"/>
-    <id>http://localhost:4000/2018/02/18/20180218/</id>
+    <link href="https://redhandsj.github.io/2018/02/18/20180218/"/>
+    <id>https://redhandsj.github.io/2018/02/18/20180218/</id>
     <published>2018-02-18T02:51:26.000Z</published>
     <updated>
       
@@ -1252,21 +1252,21 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="電磁力" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E7%A3%81%E5%8A%9B/"/>
+      <category term="電磁力" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E7%A3%81%E5%8A%9B/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
   <entry>
     <title>磁気回路と磁性体</title>
-    <link href="http://localhost:4000/2018/02/17/20180217/"/>
-    <id>http://localhost:4000/2018/02/17/20180217/</id>
+    <link href="https://redhandsj.github.io/2018/02/17/20180217/"/>
+    <id>https://redhandsj.github.io/2018/02/17/20180217/</id>
     <published>2018-02-17T02:51:26.000Z</published>
     <updated>
       
@@ -1319,14 +1319,14 @@
     
     </summary>
     
-      <category term="第三種電気主任技術者試験" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
+      <category term="第三種電気主任技術者試験" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/"/>
     
-      <category term="理論" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
+      <category term="理論" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/"/>
     
-      <category term="電磁力" scheme="http://localhost:4000/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E7%A3%81%E5%8A%9B/"/>
+      <category term="電磁力" scheme="https://redhandsj.github.io/categories/%E7%AC%AC%E4%B8%89%E7%A8%AE%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93/%E7%90%86%E8%AB%96/%E9%9B%BB%E7%A3%81%E5%8A%9B/"/>
     
     
-      <category term="電験理論" scheme="http://localhost:4000/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
+      <category term="電験理論" scheme="https://redhandsj.github.io/tags/%E9%9B%BB%E9%A8%93%E7%90%86%E8%AB%96/"/>
     
   </entry>
   
